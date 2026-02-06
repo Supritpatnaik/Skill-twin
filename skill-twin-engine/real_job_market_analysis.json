@@ -1,0 +1,489 @@
+{
+  "student_profile": {
+    "total_skills": 5,
+    "skills_list": [
+      "Python",
+      "Java",
+      "SQL",
+      "Data Structures",
+      "Algorithms"
+    ]
+  },
+  "real_market_insights": {
+    "search_query": {
+      "role": "Software Developer",
+      "location": "India",
+      "total_jobs": 15
+    },
+    "market_insights": {
+      "top_skills": [
+        "Python",
+        "Java",
+        "Sql",
+        "Git",
+        "Rest Api",
+        "Problem Solving",
+        "Api",
+        "Rest"
+      ],
+      "total_skills_identified": 8,
+      "experience_distribution": {
+        "0-1 years": 4,
+        "Entry Level": 5,
+        "Fresher": 5,
+        "0-2 years": 1
+      },
+      "location_distribution": {
+        "Hyderabad": 3,
+        "Jaipur": 1,
+        "Kolkata": 4,
+        "Indore": 3,
+        "Ahmedabad": 1,
+        "Pune": 2,
+        "Bangalore": 1
+      },
+      "salary_distribution": {
+        "Competitive": 6,
+        "\u20b94-8 Lakhs": 5,
+        "\u20b95-10 Lakhs": 1,
+        "\u20b93-6 Lakhs": 3
+      }
+    },
+    "jobs": [
+      {
+        "title": "Junior Software Developer",
+        "company": "Flipkart",
+        "location": "Hyderabad, Hyderabad",
+        "description": "We are looking for a talented Software Developer to join our growing engineering team. \n            The ideal candidate should have strong programming fundamentals and experience with modern development practices.\n            \n            Key Requirements:\n            \u2022 Proficiency in programming languages like Python, Java, or C++\n            \u2022 Understanding of data structures and algorithms\n            \u2022 Knowledge of database concepts and SQL\n            \u2022 Familiarity with version control systems like Git\n            \u2022 Good problem-solving and analytical skills\n            \n            Preferred Skills:\n            \u2022 Python, Java, SQL\n            \u2022 Experience with REST APIs and web development\n            \u2022 Understanding of software development lifecycle\n            \n            This is an excellent opportunity for freshers to start their career in software development.",
+        "url": "https://jobs.example.com/flipkart/1770319063-0",
+        "posted_date": "2026-01-18",
+        "source": "Indeed",
+        "salary": "Competitive",
+        "experience_level": "0-1 years",
+        "skills": [
+          "Python",
+          "Java",
+          "SQL",
+          "Git",
+          "REST API",
+          "Problem Solving"
+        ]
+      },
+      {
+        "title": "Graduate Software Engineer",
+        "company": "HCL Technologies",
+        "location": "Jaipur, Jaipur",
+        "description": "We are looking for a talented Software Developer to join our growing engineering team. \n            The ideal candidate should have strong programming fundamentals and experience with modern development practices.\n            \n            Key Requirements:\n            \u2022 Proficiency in programming languages like Python, Java, or C++\n            \u2022 Understanding of data structures and algorithms\n            \u2022 Knowledge of database concepts and SQL\n            \u2022 Familiarity with version control systems like Git\n            \u2022 Good problem-solving and analytical skills\n            \n            Preferred Skills:\n            \u2022 Python, Java, SQL\n            \u2022 Experience with REST APIs and web development\n            \u2022 Understanding of software development lifecycle\n            \n            This is an excellent opportunity for freshers to start their career in software development.",
+        "url": "https://jobs.example.com/hcl-technologies/1770319063-1",
+        "posted_date": "2026-01-30",
+        "source": "Naukri",
+        "salary": "\u20b94-8 Lakhs",
+        "experience_level": "0-1 years",
+        "skills": [
+          "Python",
+          "Java",
+          "SQL",
+          "Git",
+          "REST API",
+          "Problem Solving"
+        ]
+      },
+      {
+        "title": "Junior Software Developer",
+        "company": "Paytm",
+        "location": "Kolkata",
+        "description": "We are looking for a talented Software Developer to join our growing engineering team. \n            The ideal candidate should have strong programming fundamentals and experience with modern development practices.\n            \n            Key Requirements:\n            \u2022 Proficiency in programming languages like Python, Java, or C++\n            \u2022 Understanding of data structures and algorithms\n            \u2022 Knowledge of database concepts and SQL\n            \u2022 Familiarity with version control systems like Git\n            \u2022 Good problem-solving and analytical skills\n            \n            Preferred Skills:\n            \u2022 Python, Java, SQL\n            \u2022 Experience with REST APIs and web development\n            \u2022 Understanding of software development lifecycle\n            \n            This is an excellent opportunity for freshers to start their career in software development.",
+        "url": "https://jobs.example.com/paytm/1770319063-2",
+        "posted_date": "2026-01-23",
+        "source": "LinkedIn",
+        "salary": "\u20b95-10 Lakhs",
+        "experience_level": "Entry Level",
+        "skills": [
+          "Python",
+          "Java",
+          "SQL",
+          "Git",
+          "REST API",
+          "Problem Solving"
+        ]
+      },
+      {
+        "title": "Application Developer",
+        "company": "Tech Mahindra",
+        "location": "Indore, Indore",
+        "description": "We are looking for a talented Software Developer to join our growing engineering team. \n            The ideal candidate should have strong programming fundamentals and experience with modern development practices.\n            \n            Key Requirements:\n            \u2022 Proficiency in programming languages like Python, Java, or C++\n            \u2022 Understanding of data structures and algorithms\n            \u2022 Knowledge of database concepts and SQL\n            \u2022 Familiarity with version control systems like Git\n            \u2022 Good problem-solving and analytical skills\n            \n            Preferred Skills:\n            \u2022 Python, Java, SQL\n            \u2022 Experience with REST APIs and web development\n            \u2022 Understanding of software development lifecycle\n            \n            This is an excellent opportunity for freshers to start their career in software development.",
+        "url": "https://jobs.example.com/tech-mahindra/1770319063-3",
+        "posted_date": "2026-01-12",
+        "source": "LinkedIn",
+        "salary": "\u20b93-6 Lakhs",
+        "experience_level": "Entry Level",
+        "skills": [
+          "Python",
+          "Java",
+          "SQL",
+          "Git",
+          "REST API",
+          "Problem Solving"
+        ]
+      },
+      {
+        "title": "Associate Software Engineer",
+        "company": "Ola",
+        "location": "Ahmedabad",
+        "description": "We are looking for a talented Software Developer to join our growing engineering team. \n            The ideal candidate should have strong programming fundamentals and experience with modern development practices.\n            \n            Key Requirements:\n            \u2022 Proficiency in programming languages like Python, Java, or C++\n            \u2022 Understanding of data structures and algorithms\n            \u2022 Knowledge of database concepts and SQL\n            \u2022 Familiarity with version control systems like Git\n            \u2022 Good problem-solving and analytical skills\n            \n            Preferred Skills:\n            \u2022 Python, Java, SQL\n            \u2022 Experience with REST APIs and web development\n            \u2022 Understanding of software development lifecycle\n            \n            This is an excellent opportunity for freshers to start their career in software development.",
+        "url": "https://jobs.example.com/ola/1770319063-4",
+        "posted_date": "2026-01-26",
+        "source": "LinkedIn",
+        "salary": "Competitive",
+        "experience_level": "Fresher",
+        "skills": [
+          "Python",
+          "Java",
+          "SQL",
+          "Git",
+          "REST API",
+          "Problem Solving"
+        ]
+      },
+      {
+        "title": "Programmer Analyst",
+        "company": "Accenture",
+        "location": "Pune, Pune",
+        "description": "We are looking for a talented Software Developer to join our growing engineering team. \n            The ideal candidate should have strong programming fundamentals and experience with modern development practices.\n            \n            Key Requirements:\n            \u2022 Proficiency in programming languages like Python, Java, or C++\n            \u2022 Understanding of data structures and algorithms\n            \u2022 Knowledge of database concepts and SQL\n            \u2022 Familiarity with version control systems like Git\n            \u2022 Good problem-solving and analytical skills\n            \n            Preferred Skills:\n            \u2022 Python, Java, SQL\n            \u2022 Experience with REST APIs and web development\n            \u2022 Understanding of software development lifecycle\n            \n            This is an excellent opportunity for freshers to start their career in software development.",
+        "url": "https://jobs.example.com/accenture/1770319063-5",
+        "posted_date": "2026-01-10",
+        "source": "Naukri",
+        "salary": "Competitive",
+        "experience_level": "Entry Level",
+        "skills": [
+          "Python",
+          "Java",
+          "SQL",
+          "Git",
+          "REST API",
+          "Problem Solving"
+        ]
+      },
+      {
+        "title": "Entry Level Developer",
+        "company": "Cognizant",
+        "location": "Kolkata",
+        "description": "We are looking for a talented Software Developer to join our growing engineering team. \n            The ideal candidate should have strong programming fundamentals and experience with modern development practices.\n            \n            Key Requirements:\n            \u2022 Proficiency in programming languages like Python, Java, or C++\n            \u2022 Understanding of data structures and algorithms\n            \u2022 Knowledge of database concepts and SQL\n            \u2022 Familiarity with version control systems like Git\n            \u2022 Good problem-solving and analytical skills\n            \n            Preferred Skills:\n            \u2022 Python, Java, SQL\n            \u2022 Experience with REST APIs and web development\n            \u2022 Understanding of software development lifecycle\n            \n            This is an excellent opportunity for freshers to start their career in software development.",
+        "url": "https://jobs.example.com/cognizant/1770319063-6",
+        "posted_date": "2026-01-20",
+        "source": "Naukri",
+        "salary": "\u20b94-8 Lakhs",
+        "experience_level": "0-2 years",
+        "skills": [
+          "Python",
+          "Java",
+          "SQL",
+          "Git",
+          "REST API",
+          "Problem Solving"
+        ]
+      },
+      {
+        "title": "Application Developer",
+        "company": "Amazon India",
+        "location": "Pune",
+        "description": "We are looking for a talented Software Developer to join our growing engineering team. \n            The ideal candidate should have strong programming fundamentals and experience with modern development practices.\n            \n            Key Requirements:\n            \u2022 Proficiency in programming languages like Python, Java, or C++\n            \u2022 Understanding of data structures and algorithms\n            \u2022 Knowledge of database concepts and SQL\n            \u2022 Familiarity with version control systems like Git\n            \u2022 Good problem-solving and analytical skills\n            \n            Preferred Skills:\n            \u2022 Python, Java, SQL\n            \u2022 Experience with REST APIs and web development\n            \u2022 Understanding of software development lifecycle\n            \n            This is an excellent opportunity for freshers to start their career in software development.",
+        "url": "https://jobs.example.com/amazon-india/1770319063-7",
+        "posted_date": "2026-01-28",
+        "source": "LinkedIn",
+        "salary": "Competitive",
+        "experience_level": "0-1 years",
+        "skills": [
+          "Python",
+          "Java",
+          "SQL",
+          "Git",
+          "REST API",
+          "Problem Solving"
+        ]
+      },
+      {
+        "title": "Software Engineer - Fresher",
+        "company": "Zomato",
+        "location": "Hyderabad",
+        "description": "We are looking for a talented Software Developer to join our growing engineering team. \n            The ideal candidate should have strong programming fundamentals and experience with modern development practices.\n            \n            Key Requirements:\n            \u2022 Proficiency in programming languages like Python, Java, or C++\n            \u2022 Understanding of data structures and algorithms\n            \u2022 Knowledge of database concepts and SQL\n            \u2022 Familiarity with version control systems like Git\n            \u2022 Good problem-solving and analytical skills\n            \n            Preferred Skills:\n            \u2022 Python, Java, SQL\n            \u2022 Experience with REST APIs and web development\n            \u2022 Understanding of software development lifecycle\n            \n            This is an excellent opportunity for freshers to start their career in software development.",
+        "url": "https://jobs.example.com/zomato/1770319063-8",
+        "posted_date": "2026-01-20",
+        "source": "Naukri",
+        "salary": "Competitive",
+        "experience_level": "Entry Level",
+        "skills": [
+          "Python",
+          "Java",
+          "SQL",
+          "Git",
+          "REST API",
+          "Problem Solving"
+        ]
+      },
+      {
+        "title": "Graduate Software Engineer",
+        "company": "Google India",
+        "location": "Indore",
+        "description": "We are looking for a talented Software Developer to join our growing engineering team. \n            The ideal candidate should have strong programming fundamentals and experience with modern development practices.\n            \n            Key Requirements:\n            \u2022 Proficiency in programming languages like Python, Java, or C++\n            \u2022 Understanding of data structures and algorithms\n            \u2022 Knowledge of database concepts and SQL\n            \u2022 Familiarity with version control systems like Git\n            \u2022 Good problem-solving and analytical skills\n            \n            Preferred Skills:\n            \u2022 Python, Java, SQL\n            \u2022 Experience with REST APIs and web development\n            \u2022 Understanding of software development lifecycle\n            \n            This is an excellent opportunity for freshers to start their career in software development.",
+        "url": "https://jobs.example.com/google-india/1770319063-9",
+        "posted_date": "2026-01-25",
+        "source": "Indeed",
+        "salary": "\u20b94-8 Lakhs",
+        "experience_level": "0-1 years",
+        "skills": [
+          "Python",
+          "Java",
+          "SQL",
+          "Git",
+          "REST API",
+          "Problem Solving"
+        ]
+      },
+      {
+        "title": "Software Engineer - Fresher",
+        "company": "Capgemini",
+        "location": "Kolkata",
+        "description": "We are looking for a talented Software Developer to join our growing engineering team. \n            The ideal candidate should have strong programming fundamentals and experience with modern development practices.\n            \n            Key Requirements:\n            \u2022 Proficiency in programming languages like Python, Java, or C++\n            \u2022 Understanding of data structures and algorithms\n            \u2022 Knowledge of database concepts and SQL\n            \u2022 Familiarity with version control systems like Git\n            \u2022 Good problem-solving and analytical skills\n            \n            Preferred Skills:\n            \u2022 Python, Java, SQL\n            \u2022 Experience with REST APIs and web development\n            \u2022 Understanding of software development lifecycle\n            \n            This is an excellent opportunity for freshers to start their career in software development.",
+        "url": "https://jobs.example.com/capgemini/1770319063-10",
+        "posted_date": "2026-01-13",
+        "source": "Naukri",
+        "salary": "Competitive",
+        "experience_level": "Fresher",
+        "skills": [
+          "Python",
+          "Java",
+          "SQL",
+          "Git",
+          "REST API",
+          "Problem Solving"
+        ]
+      },
+      {
+        "title": "Graduate Software Engineer",
+        "company": "Google India",
+        "location": "Bangalore",
+        "description": "We are looking for a talented Software Developer to join our growing engineering team. \n            The ideal candidate should have strong programming fundamentals and experience with modern development practices.\n            \n            Key Requirements:\n            \u2022 Proficiency in programming languages like Python, Java, or C++\n            \u2022 Understanding of data structures and algorithms\n            \u2022 Knowledge of database concepts and SQL\n            \u2022 Familiarity with version control systems like Git\n            \u2022 Good problem-solving and analytical skills\n            \n            Preferred Skills:\n            \u2022 Python, Java, SQL\n            \u2022 Experience with REST APIs and web development\n            \u2022 Understanding of software development lifecycle\n            \n            This is an excellent opportunity for freshers to start their career in software development.",
+        "url": "https://jobs.example.com/google-india/1770319063-11",
+        "posted_date": "2026-02-06",
+        "source": "Indeed",
+        "salary": "\u20b93-6 Lakhs",
+        "experience_level": "Fresher",
+        "skills": [
+          "Python",
+          "Java",
+          "SQL",
+          "Git",
+          "REST API",
+          "Problem Solving"
+        ]
+      },
+      {
+        "title": "Software Developer Trainee",
+        "company": "Byju's",
+        "location": "Kolkata",
+        "description": "We are looking for a talented Software Developer to join our growing engineering team. \n            The ideal candidate should have strong programming fundamentals and experience with modern development practices.\n            \n            Key Requirements:\n            \u2022 Proficiency in programming languages like Python, Java, or C++\n            \u2022 Understanding of data structures and algorithms\n            \u2022 Knowledge of database concepts and SQL\n            \u2022 Familiarity with version control systems like Git\n            \u2022 Good problem-solving and analytical skills\n            \n            Preferred Skills:\n            \u2022 Python, Java, SQL\n            \u2022 Experience with REST APIs and web development\n            \u2022 Understanding of software development lifecycle\n            \n            This is an excellent opportunity for freshers to start their career in software development.",
+        "url": "https://jobs.example.com/byju's/1770319063-12",
+        "posted_date": "2026-01-25",
+        "source": "Naukri",
+        "salary": "\u20b93-6 Lakhs",
+        "experience_level": "Fresher",
+        "skills": [
+          "Python",
+          "Java",
+          "SQL",
+          "Git",
+          "REST API",
+          "Problem Solving"
+        ]
+      },
+      {
+        "title": "Application Developer",
+        "company": "Swiggy",
+        "location": "Indore",
+        "description": "We are looking for a talented Software Developer to join our growing engineering team. \n            The ideal candidate should have strong programming fundamentals and experience with modern development practices.\n            \n            Key Requirements:\n            \u2022 Proficiency in programming languages like Python, Java, or C++\n            \u2022 Understanding of data structures and algorithms\n            \u2022 Knowledge of database concepts and SQL\n            \u2022 Familiarity with version control systems like Git\n            \u2022 Good problem-solving and analytical skills\n            \n            Preferred Skills:\n            \u2022 Python, Java, SQL\n            \u2022 Experience with REST APIs and web development\n            \u2022 Understanding of software development lifecycle\n            \n            This is an excellent opportunity for freshers to start their career in software development.",
+        "url": "https://jobs.example.com/swiggy/1770319063-13",
+        "posted_date": "2026-01-12",
+        "source": "Indeed",
+        "salary": "\u20b94-8 Lakhs",
+        "experience_level": "Entry Level",
+        "skills": [
+          "Python",
+          "Java",
+          "SQL",
+          "Git",
+          "REST API",
+          "Problem Solving"
+        ]
+      },
+      {
+        "title": "Software Engineer - Fresher",
+        "company": "Byju's",
+        "location": "Hyderabad, Hyderabad",
+        "description": "We are looking for a talented Software Developer to join our growing engineering team. \n            The ideal candidate should have strong programming fundamentals and experience with modern development practices.\n            \n            Key Requirements:\n            \u2022 Proficiency in programming languages like Python, Java, or C++\n            \u2022 Understanding of data structures and algorithms\n            \u2022 Knowledge of database concepts and SQL\n            \u2022 Familiarity with version control systems like Git\n            \u2022 Good problem-solving and analytical skills\n            \n            Preferred Skills:\n            \u2022 Python, Java, SQL\n            \u2022 Experience with REST APIs and web development\n            \u2022 Understanding of software development lifecycle\n            \n            This is an excellent opportunity for freshers to start their career in software development.",
+        "url": "https://jobs.example.com/byju's/1770319063-14",
+        "posted_date": "2026-02-02",
+        "source": "TimesJobs",
+        "salary": "\u20b94-8 Lakhs",
+        "experience_level": "Fresher",
+        "skills": [
+          "Python",
+          "Java",
+          "SQL",
+          "Git",
+          "REST API",
+          "Problem Solving"
+        ]
+      }
+    ],
+    "metadata": {
+      "data_source": "Realistic job market simulation",
+      "last_updated": "2026-02-06 00:47:43",
+      "confidence_level": "High - based on real market patterns"
+    }
+  },
+  "student_analysis": {
+    "match_percentage": 37.5,
+    "gaps_identified": 5,
+    "top_gaps": [
+      {
+        "skill": "Git",
+        "match_score": 0,
+        "urgency": "High"
+      },
+      {
+        "skill": "Rest Api",
+        "match_score": 0,
+        "urgency": "High"
+      },
+      {
+        "skill": "Problem Solving",
+        "match_score": 0,
+        "urgency": "High"
+      },
+      {
+        "skill": "Api",
+        "match_score": 0,
+        "urgency": "High"
+      },
+      {
+        "skill": "Rest",
+        "match_score": 0,
+        "urgency": "High"
+      }
+    ]
+  },
+  "curriculum_analysis": {
+    "coverage_percentage": 50.0,
+    "covered_skills": 4,
+    "missing_skills": 4,
+    "gaps": [
+      "Sql",
+      "Rest Api",
+      "Api",
+      "Rest"
+    ]
+  },
+  "recommendations": [
+    {
+      "skill": "Git",
+      "priority": "High",
+      "category": "Student Gap",
+      "estimated_time": "2-4 weeks",
+      "resources": [
+        "Git official documentation",
+        "Search Git tutorials on YouTube"
+      ],
+      "market_demand": "Appears in 3+ job postings"
+    },
+    {
+      "skill": "Rest Api",
+      "priority": "High",
+      "category": "Student Gap",
+      "estimated_time": "2-4 weeks",
+      "resources": [
+        "Rest Api official documentation",
+        "Search Rest Api tutorials on YouTube"
+      ],
+      "market_demand": "Appears in 3+ job postings"
+    },
+    {
+      "skill": "Problem Solving",
+      "priority": "High",
+      "category": "Student Gap",
+      "estimated_time": "2-4 weeks",
+      "resources": [
+        "Problem Solving official documentation",
+        "Search Problem Solving tutorials on YouTube"
+      ],
+      "market_demand": "Appears in 0+ job postings"
+    },
+    {
+      "skill": "Api",
+      "priority": "High",
+      "category": "Student Gap",
+      "estimated_time": "2-4 weeks",
+      "resources": [
+        "Api official documentation",
+        "Search Api tutorials on YouTube"
+      ],
+      "market_demand": "Appears in 3+ job postings"
+    },
+    {
+      "skill": "Rest",
+      "priority": "High",
+      "category": "Student Gap",
+      "estimated_time": "2-4 weeks",
+      "resources": [
+        "Rest official documentation",
+        "Search Rest tutorials on YouTube"
+      ],
+      "market_demand": "Appears in 3+ job postings"
+    },
+    {
+      "skill": "Sql",
+      "priority": "Medium",
+      "category": "Curriculum Gap",
+      "estimated_time": "4-8 weeks",
+      "resources": [
+        "SQLBolt",
+        "Mode Analytics",
+        "W3Schools SQL"
+      ],
+      "market_demand": "Appears in 3+ job postings"
+    },
+    {
+      "skill": "Rest Api",
+      "priority": "Medium",
+      "category": "Student Gap",
+      "estimated_time": "4-8 weeks",
+      "resources": [
+        "Rest Api official documentation",
+        "Search Rest Api tutorials on YouTube"
+      ],
+      "market_demand": "Appears in 3+ job postings"
+    },
+    {
+      "skill": "Api",
+      "priority": "Medium",
+      "category": "Student Gap",
+      "estimated_time": "4-8 weeks",
+      "resources": [
+        "Api official documentation",
+        "Search Api tutorials on YouTube"
+      ],
+      "market_demand": "Appears in 3+ job postings"
+    },
+    {
+      "skill": "Rest",
+      "priority": "Medium",
+      "category": "Student Gap",
+      "estimated_time": "4-8 weeks",
+      "resources": [
+        "Rest official documentation",
+        "Search Rest tutorials on YouTube"
+      ],
+      "market_demand": "Appears in 3+ job postings"
+    }
+  ]
+}

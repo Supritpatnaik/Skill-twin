@@ -1,0 +1,20 @@
+{
+  "search_query": {
+    "role": "Software Developer",
+    "location": "India",
+    "limit": 15
+  },
+  "aggregation": {
+    "total_jobs_found": 0,
+    "sources_used": 0,
+    "unique_companies": 0,
+    "date_range": "Last 30 days"
+  },
+  "market_insights": {
+    "top_skills": [],
+    "skill_frequency": {},
+    "experience_distribution": {},
+    "location_distribution": {}
+  },
+  "jobs": []
+}

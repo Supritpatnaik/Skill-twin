@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "question": "What is the time complexity of binary search?",
+    "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+    "answer": "O(log n)",
+    "tags": ["logic", "complexity"],
+    "difficulty": "easy"
+  },
+  {
+    "id": 2,
+    "question": "Which data structure follows FIFO principle?",
+    "options": ["Stack", "Queue", "Tree", "Graph"],
+    "answer": "Queue",
+    "tags": ["concept"],
+    "difficulty": "easy"
+  },
+  {
+    "id": 3,
+    "question": "Which traversal is used in Breadth First Search?",
+    "options": ["Stack", "Queue", "Recursion", "Heap"],
+    "answer": "Queue",
+    "tags": ["logic", "graphs"],
+    "difficulty": "medium"
+  },
+  {
+    "id": 4,
+    "question": "Which data structure is best for recursion?",
+    "options": ["Queue", "Array", "Stack", "Linked List"],
+    "answer": "Stack",
+    "tags": ["concept"],
+    "difficulty": "easy"
+  },
+  {
+    "id": 5,
+    "question": "What is the worst-case time complexity of Quick Sort?",
+    "options": ["O(n)", "O(n log n)", "O(log n)", "O(n²)"],
+    "answer": "O(n²)",
+    "tags": ["logic", "sorting"],
+    "difficulty": "medium"
+  },
+  {
+    "id": 6,
+    "question": "Which structure uses nodes with pointers?",
+    "options": ["Array", "Stack", "Linked List", "Queue"],
+    "answer": "Linked List",
+    "tags": ["concept"],
+    "difficulty": "easy"
+  },
+  {
+    "id": 7,
+    "question": "Which algorithm finds the shortest path?",
+    "options": ["DFS", "BFS", "Dijkstra", "Merge Sort"],
+    "answer": "Dijkstra",
+    "tags": ["logic", "graphs"],
+    "difficulty": "medium"
+  },
+  {
+    "id": 8,
+    "question": "What does a heap primarily support?",
+    "options": ["Sorting", "Fast min/max access", "Traversal", "Indexing"],
+    "answer": "Fast min/max access",
+    "tags": ["concept"],
+    "difficulty": "medium"
+  },
+  {
+    "id": 9,
+    "question": "Which data structure is used in BFS?",
+    "options": ["Stack", "Queue", "Tree", "Graph"],
+    "answer": "Queue",
+    "tags": ["logic"],
+    "difficulty": "easy"
+  },
+  {
+    "id": 10,
+    "question": "Which sorting algorithm is stable?",
+    "options": ["Quick Sort", "Heap Sort", "Bubble Sort", "Selection Sort"],
+    "answer": "Bubble Sort",
+    "tags": ["concept"],
+    "difficulty": "easy"
+  }
+]

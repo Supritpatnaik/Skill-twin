@@ -1,0 +1,5 @@
+{
+  "name": "Skill-Twin",
+  "description": "An application that analyzes real job market data and your curriculum to show exactly what skills increase your hiring chances.",
+  "requestFramePermissions": []
+}

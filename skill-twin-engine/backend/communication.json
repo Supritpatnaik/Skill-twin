@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "question": "What is the main purpose of effective communication?",
+    "options": ["Speaking fast", "Clear message delivery", "Using complex words", "Showing confidence"],
+    "answer": "Clear message delivery",
+    "tags": ["comprehension"],
+    "difficulty": "easy"
+  },
+  {
+    "id": 2,
+    "question": "Which is a barrier to communication?",
+    "options": ["Clarity", "Feedback", "Noise", "Listening"],
+    "answer": "Noise",
+    "tags": ["concept"],
+    "difficulty": "easy"
+  },
+  {
+    "id": 3,
+    "question": "Active listening involves?",
+    "options": ["Interrupting", "Ignoring speaker", "Understanding and responding", "Speaking more"],
+    "answer": "Understanding and responding",
+    "tags": ["logic"],
+    "difficulty": "easy"
+  },
+  {
+    "id": 4,
+    "question": "Which improves verbal communication?",
+    "options": ["Monotone voice", "Clear articulation", "Fast speaking", "Avoiding eye contact"],
+    "answer": "Clear articulation",
+    "tags": ["concept"],
+    "difficulty": "easy"
+  },
+  {
+    "id": 5,
+    "question": "Non-verbal communication includes?",
+    "options": ["Emails", "Body language", "Reports", "Chats"],
+    "answer": "Body language",
+    "tags": ["concept"],
+    "difficulty": "easy"
+  },
+  {
+    "id": 6,
+    "question": "What does feedback ensure?",
+    "options": ["Confusion", "Message clarity", "Delay", "Disinterest"],
+    "answer": "Message clarity",
+    "tags": ["logic"],
+    "difficulty": "easy"
+  },
+  {
+    "id": 7,
+    "question": "Which tone is best in interviews?",
+    "options": ["Aggressive", "Confident and calm", "Casual", "Dominant"],
+    "answer": "Confident and calm",
+    "tags": ["practice"],
+    "difficulty": "easy"
+  },
+  {
+    "id": 8,
+    "question": "Effective communication mainly depends on?",
+    "options": ["Vocabulary", "Clarity and listening", "Speed", "Accent"],
+    "answer": "Clarity and listening",
+    "tags": ["comprehension"],
+    "difficulty": "easy"
+  },
+  {
+    "id": 9,
+    "question": "Which improves professional communication?",
+    "options": ["Slang", "Structure", "Assumptions", "Silence"],
+    "answer": "Structure",
+    "tags": ["logic"],
+    "difficulty": "easy"
+  },
+  {
+    "id": 10,
+    "question": "What should be avoided in formal communication?",
+    "options": ["Clarity", "Politeness", "Slang", "Conciseness"],
+    "answer": "Slang",
+    "tags": ["practice"],
+    "difficulty": "easy"
+  }
+]

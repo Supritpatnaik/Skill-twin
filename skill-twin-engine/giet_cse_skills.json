@@ -1,0 +1,99 @@
+{
+  "overall_technical_skills": [
+    "Python",
+    "Java",
+    "C",
+    "Data Structures",
+    "Algorithms",
+    "Database Management Systems",
+    "Digital Electronics",
+    "Operating Systems",
+    "Object Oriented Programming",
+    "Computer Organization and Architecture",
+    "Software Engineering",
+    "Computer Graphics",
+    "Microprocessors",
+    "Artificial Intelligence",
+    "Compiler Design",
+    "Internet of Things",
+    "Computer Networks",
+    "Formal Language & Automata Theory",
+    "Discrete Mathematics",
+    "Engineering Mathematics",
+    "Engineering Physics",
+    "Engineering Chemistry",
+    "Basic Electronics",
+    "Basic Electrical Engineering",
+    "Programming for Problem Solving",
+    "Data Science",
+    "Cyber Security",
+    "Machine Learning",
+    "Fuzzy Logic",
+    "Deep Learning",
+    "Neural Networks"
+  ],
+  "soft_skills": [
+    "Communication",
+    "Organizational Behavior",
+    "Teamwork",
+    "Problem Solving"
+  ],
+  "by_semester": {
+    "Semester I": [
+      "Engineering Mathematics-I",
+      "Engineering Physics",
+      "Basic Electronics",
+      "Programming for Problem Solving"
+    ],
+    "Semester II": [
+      "Engineering Mathematics-II",
+      "Engineering Chemistry",
+      "Basic Electrical Engineering",
+      "Data Structure & Algorithms"
+    ],
+    "Semester III": [
+      "Discrete Mathematics",
+      "Database Management Systems",
+      "Digital Electronics",
+      "Operating Systems",
+      "Object Oriented Programming through Java"
+    ],
+    "Semester IV": [
+      "Fundamentals of Python Programming",
+      "Computer Organization and Architecture",
+      "Design and Analysis of Algorithms"
+    ],
+    "Semester V": [
+      "Artificial Intelligence",
+      "Compiler Design",
+      "Internet of Things"
+    ],
+    "Semester VI": [
+      "Software Engineering",
+      "Computer Graphics",
+      "Microprocessors"
+    ],
+    "Semester VII": [
+      "Professional Elective - 4",
+      "Professional Elective - 5",
+      "Open Elective - 3"
+    ],
+    "Semester VIII": [
+      "Professional Elective - 6",
+      "Open Elective - 4",
+      "Open Elective - 5",
+      "Project Work"
+    ]
+  },
+  "specializations": {
+    "Artificial Intelligence & Machine Learning": [
+      "Fuzzy Logic",
+      "Deep Learning",
+      "Neural Networks"
+    ],
+    "Data Science": [],
+    "Cyber Security": [],
+    "Internet of Things": []
+  },
+  "total_unique_technical": 45
+}

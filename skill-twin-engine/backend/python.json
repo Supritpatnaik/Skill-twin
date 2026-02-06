@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "question": "What is the key characteristic of tuples in Python?",
+    "options": ["Mutable sequence", "Immutable sequence", "Key-value storage", "Dynamic typing"],
+    "answer": "Immutable sequence",
+    "tags": ["concept", "python-basics"],
+    "difficulty": "easy"
+  },
+  {
+    "id": 2,
+    "question": "What is the primary purpose of dictionaries in Python?",
+    "options": ["Ordered storage", "Index-based access", "Key-value data storage", "Immutable collection"],
+    "answer": "Key-value data storage",
+    "tags": ["concept", "data-structures"],
+    "difficulty": "easy"
+  },
+  {
+    "id": 3,
+    "question": "Which Python collection stores only unique values?",
+    "options": ["List", "Tuple", "Set", "Dictionary"],
+    "answer": "Set",
+    "tags": ["concept"],
+    "difficulty": "easy"
+  },
+  {
+    "id": 4,
+    "question": "What is the main use of lambda functions in Python?",
+    "options": ["Loop creation", "Anonymous function creation", "Class definition", "Error handling"],
+    "answer": "Anonymous function creation",
+    "tags": ["logic", "functions"],
+    "difficulty": "medium"
+  },
+  {
+    "id": 5,
+    "question": "What do decorators do in Python?",
+    "options": ["Create loops", "Enhance existing functions", "Handle files", "Manage memory"],
+    "answer": "Enhance existing functions",
+    "tags": ["concept", "advanced-python"],
+    "difficulty": "medium"
+  },
+  {
+    "id": 6,
+    "question": "What is the main feature of generators?",
+    "options": ["Eager execution", "Lazy iteration", "Memory duplication", "Thread creation"],
+    "answer": "Lazy iteration",
+    "tags": ["concept", "performance"],
+    "difficulty": "medium"
+  },
+  {
+    "id": 7,
+    "question": "Why is exception handling used in Python?",
+    "options": ["Improve speed", "Handle runtime errors", "Optimize loops", "Define variables"],
+    "answer": "Handle runtime errors",
+    "tags": ["concept", "error-handling"],
+    "difficulty": "easy"
+  },
+  {
+    "id": 8,
+    "question": "Which OOP principle binds data and methods together?",
+    "options": ["Inheritance", "Encapsulation", "Polymorphism", "Abstraction"],
+    "answer": "Encapsulation",
+    "tags": ["concept", "oop"],
+    "difficulty": "medium"
+  },
+  {
+    "id": 9,
+    "question": "What is list comprehension mainly used for?",
+    "options": ["Memory allocation", "Compact looping syntax", "Class creation", "File reading"],
+    "answer": "Compact looping syntax",
+    "tags": ["syntax", "loops"],
+    "difficulty": "easy"
+  },
+  {
+    "id": 10,
+    "question": "Why are virtual environments used in Python?",
+    "options": ["Increase performance", "Isolate project dependencies", "Store data", "Compile code"],
+    "answer": "Isolate project dependencies",
+    "tags": ["concept", "environment"],
+    "difficulty": "medium"
+  }
+]

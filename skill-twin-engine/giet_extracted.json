@@ -1,0 +1,3071 @@
+{
+  "metadata": {
+    "university": "GIET University, Gunupur",
+    "program": "B.Tech Computer Science & Engineering",
+    "total_pages": 44,
+    "source_file": "giet-cse.pdf"
+  },
+  "pages": {
+    "page_01": {
+      "page": 1,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA\nSCHOOL OF ENGINEERING\nIncorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE\nAccredited by NAAC with a CGPA of 3.28/4 at A Grade\nwww.giet.edu\nAnnexure – 2A\nSyllabus Structure of Undergraduate B.Tech - 4 Years",
+      "full_text_length": 262,
+      "tables_found": 0
+    },
+    "page_02": {
+      "page": 2,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu Computer Science & Technology (CSE) Program CREDITS / SEMESTER SL. COURSE WORK - TOTAL NO. SUBJECTS AREA CREDITS I II III IV V VI VII VIII Humanities and Social Sciences 1 3 3 2 2 - - 3 - 13 including Management Courses 2 Basic Science Courses 8 8 4 - - - - - 20 Engineering Science Courses including wor...",
+      "full_text_length": 1084,
+      "tables_found": 1
+    },
+    "page_03": {
+      "page": 3,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu I Semester [First Year] Computer Science & Engineering Hours per week Sl. Course Category Course Title Credits No. Code L T P Basic 1 Science Engineering Mathematics-I 3 1 0 4 Courses Basic Engineering Physics / 2 Science 3 0 2 4 Engineering Chemistry Courses Engineering Basic Electronics / Basic 3 Scie...",
+      "full_text_length": 886,
+      "tables_found": 1
+    },
+    "page_04": {
+      "page": 4,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu II Semester [First Year] Computer Science & Engineering Hours per Sl. Course week Category Course Title Credits No. Code L T P Basic 1 Science Engineering Mathematics-II 3 1 0 4 Courses Basic Engineering Chemistry / 2 Science 3 0 2 4 Engineering Physics Courses Engineering Basic Electrical Engineering /...",
+      "full_text_length": 902,
+      "tables_found": 1
+    },
+    "page_05": {
+      "page": 5,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu III Semester [Second Year] Computer Science & Engineering Hours per week Sl. Course Category Course Title Credits No. Code L T P Basic 1 Science Discrete Mathematics 3 1 0 4 Courses Engineering Data Base Management 2 Science 3 0 2 4 Systems Courses Professional 3 Core Digital Electronics 3 0 2 4 Courses...",
+      "full_text_length": 877,
+      "tables_found": 1
+    },
+    "page_06": {
+      "page": 6,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu IV Semester [Second Year] Computer Science & Engineering Hours per week Sl. Course Category Course Title Credits No. Code L T P Engineering Fundamental of Python 1 Science 2 0 2 3 Programming Courses Professional Computer Organization & 2 Core 3 0 2 4 Architecture Courses Professional Design and Analysi...",
+      "full_text_length": 903,
+      "tables_found": 1
+    },
+    "page_07": {
+      "page": 7,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu V Semester [Third Year] Computer Science & Engineering Hours per week Sl. Course Category Course Title Credits No. Code L T P Professional 1 Artificial Intelligence 3 0 0 3 Core Courses Professional 2 Compiler Design 3 0 0 3 Core Courses Professional 3 Internet of Things 3 0 2 4 Core Courses Professiona...",
+      "full_text_length": 1119,
+      "tables_found": 2
+    },
+    "page_08": {
+      "page": 8,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu VI Semester [Third Year] Computer Science & Engineering Hours per week Sl. Course Category Course Title Credits No. Code L T P Professional 1 Software Engineering 3 0 2 4 Core Courses Professional 2 Computer Graphics 3 0 0 3 Core Courses Professional Microprocessors and 3 3 0 0 4 Core Courses Microcontr...",
+      "full_text_length": 1313,
+      "tables_found": 2
+    },
+    "page_09": {
+      "page": 9,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu VII Semester [Fourth Year] Computer Science & Engineering Hours per week Sl. Course Category Course Title Credits No. Code L T P Professional 1 Professional Elective - 4 3 0 0 3 Elective Courses Professional 2 Professional Elective - 5 3 0 0 3 Elective Courses Open Elective 3 Open Elective - 3 3 0 0 3 C...",
+      "full_text_length": 1236,
+      "tables_found": 2
+    },
+    "page_10": {
+      "page": 10,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu VIII Semester [Fourth Year] Computer Science & Engineering Hours per week Sl. Course Category Course Title Credits No. Code L T P Professional 1 Elective Professional Elective - 6 3 0 0 3 Courses Open 2 Elective Open Elective - 4 3 0 0 3 Courses Open 3 Elective Open Elective - 5 3 0 0 3 Courses Project ...",
+      "full_text_length": 911,
+      "tables_found": 2
+    },
+    "page_11": {
+      "page": 11,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu BUCKETS FOR PROFESSIONAL ELECTIVES AND OPEN ELECTIVES Computer Science & Engineering ARTIFICIAL OPEN INTELLIGENCE INTERNET OF DATA SCIENCE CYBER SECURITY ELECTIVES & MACHINE THINGS LEARNING Fuzzy Logic and Information Information Wireless Sensor Soft Skills and its Applications Storage and Security Netw...",
+      "full_text_length": 1988,
+      "tables_found": 1
+    },
+    "page_12": {
+      "page": 12,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu Computer Science & Engineering Structure of Undergraduate Engineering program: Credits to be acquired Basket Basket Category % Theory Practice Total Credits Course Course Humanities and Social Sciences 1 8.1 11 02 13 including Management courses 2 Basic Science courses 12.5 18 02 20 Engineering Science ...",
+      "full_text_length": 1047,
+      "tables_found": 1
+    },
+    "page_13": {
+      "page": 13,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu Computer Science & Engineering (CSE) Program Humanities and Social Sciences including Management Courses (HSMC) SL. Hours per week Total Code No. Course Title Semester NO. Credits Lecture Tutorial Practical Communicative English & 1 2 0 2 3 I Soft Skills(CESS) Communicative English & 2 Technical 2 0 2 3...",
+      "full_text_length": 993,
+      "tables_found": 2
+    },
+    "page_14": {
+      "page": 14,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu Computer Science & Engineering (CSE) Program Engineering Science Course (ESC) SL. Hours per week Total Code No. Course Title Semester NO. Credits Lecture Tutorial Practical Basics of Electronics / 1 Basic Electrical 3 0 2 4 I Engineering Programming for 2 2 0 4 4 I Problem Solving Engineering Graphics 3...",
+      "full_text_length": 778,
+      "tables_found": 1
+    },
+    "page_15": {
+      "page": 15,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu Computer Science & Engineering (CSE) Program Professional Core Courses (PCC) SL. Hours per week Total Code No. Course Title Semester NO. Credits Lecture Tutorial Practical 1 Digital Electronics 3 0 2 4 III 2 Operating Systems 3 0 2 4 III Object Oriented 3 Programming through 3 0 2 4 III Java Computer Or...",
+      "full_text_length": 937,
+      "tables_found": 1
+    },
+    "page_16": {
+      "page": 16,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu Computer Science & Engineering (CSE) Program Professional Elective Courses (PEC) SL. Hours per week Total Code No. Course Title Semester NO. Credits Lecture Tutorial Practical 1 Professional Elective - 1 3 0 0 3 V 2 Professional Elective - 2 3 0 0 3 VI 3 Professional Elective - 3 3 0 0 3 VI 4 Profession...",
+      "full_text_length": 924,
+      "tables_found": 2
+    },
+    "page_17": {
+      "page": 17,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu Computer Science & Engineering (CSE) Program Project work, seminar and internship in industry or elsewhere Hours per week SL. Total Code No. Course Title Semester NO. Credits Lecture Tutorial Practical Summer Industry 1 - - 2 1 III Internship Summer Industry 2 - - 2 1 V Internship Summer Industry 3 - - ...",
+      "full_text_length": 912,
+      "tables_found": 2
+    },
+    "page_18": {
+      "page": 18,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA\nSCHOOL OF ENGINEERING\nIncorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE\nAccredited by NAAC with a CGPA of 3.28/4 at A Grade\nwww.giet.edu\nAnnexure – 3A\nDetailed Syllabus of Undergraduate B.Tech - 4 Years\nComputer Science & Engineering (CSE) Program\nI Semester [First Year]\nCourse Code Course Title L T P C\nBESBS1040 Programming for Problem Solving 2 0 0 2\nPre -Requisite: Computer basics.",
+      "full_text_length": 446,
+      "tables_found": 1
+    },
+    "page_19": {
+      "page": 19,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu Course Educational Objective CEO1: To formulate algorithm, translate into program and then execute the programs for verifying its correctness. CEO2: To analyze a problem for knowing its efficiency and decompose it into functions using divide and conquer approach. Course Outcome: Student should be able t...",
+      "full_text_length": 2405,
+      "tables_found": 3
+    },
+    "page_20": {
+      "page": 20,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu 2) Let us ‘C’ by Yashwant Kanethekar, 16th edition, BPB Publications 3) Byron Gottfried, Schaum's Outline of Programming with C, 3rd edition, McGraw-Hill References: 1) Brian W. Kernighan and Dennis M. Ritchie, The C Programming Language,2nd edition, Prentice Hall of India 2) Programming in C, by Reema ...",
+      "full_text_length": 687,
+      "tables_found": 2
+    },
+    "page_21": {
+      "page": 21,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu Pre -Requisite: Course Educational Objective CEO1: To develop programs for problems on different applications of array, functions, pointers and structure. CEO2: To analyse different problems by comparing and implementing in programming. Course Outcome To understand operating system and its simple comman...",
+      "full_text_length": 2259,
+      "tables_found": 3
+    },
+    "page_22": {
+      "page": 22,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu Lab Experiment 6: Nested Loop 1) Write a program to calculate the following sum using nested for statement: Sum = 1-(x^2)/2! +( x^4)/4! – (x^6)/6! + (x^8)/8! – (x^10)/10! 2) Write a program to generate the following pyramid using nested for statement: 1 1 2 1 1 2 3 2 1 1 2 3 4 3 2 1 Lab Experiment 7: 1D...",
+      "full_text_length": 2719,
+      "tables_found": 1
+    },
+    "page_23": {
+      "page": 23,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu Teaching Methods: Chalk& Board/ PPT/Video Lecture  A case study can be given to each student for each UNIT.  A Mini Project can be given which the student have to do during the semester break. Text Books: 4) E. Balaguruswamy, Programming in ANSI C, 7th edition, Tata McGraw-Hill 5) Let us ‘C’ by Yashwa...",
+      "full_text_length": 898,
+      "tables_found": 1
+    },
+    "page_24": {
+      "page": 24,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu Course Code Course Title L T P C DATA STRUCTURE AND BESBS2040 2 0 0 2 ALGORITHMS Pre -Requisite: Basic knowledge of Algorithms Course Educational Objective CEO1:Develop algorithms for performing different operations on arrays, stack, Queue, linked list. Analyze the difference between them and understand...",
+      "full_text_length": 2492,
+      "tables_found": 2
+    },
+    "page_25": {
+      "page": 25,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu Doublelinked list. Basic concept of Circular double linked list. UNIT- III (11 Hours) Trees: Introduction, Terminology, Binary Trees, Memory Representation of Binary Trees using arrays and linked lists, Binary Tree traversal methods(recursive and non-recursive) , Construction of binary tree using in-ord...",
+      "full_text_length": 1847,
+      "tables_found": 1
+    },
+    "page_26": {
+      "page": 26,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu Subject Code Name of the Subject L T P C DATA STRUCTURE AND ALGORITHMS BESBS2140 0 0 4 2 LABORATORY Course Outcomes: Upon successful completion of this course, students should be able to: CO1 Understand the concepts of algorithms and implement in developing the programs for different operations of 1D ar...",
+      "full_text_length": 1901,
+      "tables_found": 1
+    },
+    "page_27": {
+      "page": 27,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu Experiment 7: (linear queue) Q1) Write a C program to create a linear queue and perform the following operations: (i) insertion ii) deletion and iii) Traversal Experiment 8: (circular queue) Q1) Write a C program to create a circular queue and perform the following operations: (i) insertion ii) deletion...",
+      "full_text_length": 1576,
+      "tables_found": 1
+    },
+    "page_28": {
+      "page": 28,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu III Semester [Second Year] Subject Code Name of the Subject L T P C QP DATABASE MANAGEMENT SYSTEM 3 0 0 3 A Course Educational Objectives Pre -Requisite: A student should have basic idea on programming and file systems. CEO 1 Gain a good understanding of the architecture and functioning of Database Mana...",
+      "full_text_length": 2274,
+      "tables_found": 1
+    },
+    "page_29": {
+      "page": 29,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu and QBE. Database Design:-Database development life cycle (DDLC), Automated design tools, Functional dependency and Decomposition, Join strategies, Dependency Preservation & lossless Design, Normalization, Normal forms:1NF, 2NF,3NF, and BCNF, Multi-valued Dependencies, 4NF & 5NF. Query processing and op...",
+      "full_text_length": 1924,
+      "tables_found": 1
+    },
+    "page_30": {
+      "page": 30,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu Subject Code Name of the Subject L T P C QP Operating System 3 0 0 3 A Course Educational Objectives CEO1 Provide an insight into the basic organization of computer systems. CEO2 Familiarize students with various components of an Operating System CEO3 Focus on fundamental problems and optimal solutions ...",
+      "full_text_length": 2286,
+      "tables_found": 1
+    },
+    "page_31": {
+      "page": 31,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu of Synchronization, Monitors, Case Studies: Linux, Windows. UNIT:3 (14 Hours) Memory Management and Virtual Memory - Logical & physical Address Space, Swapping, Contiguous Allocation, Paging, Structure of Page Table. Segmentation, Segmentation with Paging, Virtual Memory, Demand Paging, Performance of D...",
+      "full_text_length": 2365,
+      "tables_found": 1
+    },
+    "page_32": {
+      "page": 32,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu Subject Code Name of the Subject L T P C QP OBJECT ORIENTED PROGRAMMING 3 0 0 3 A THROUGH JAVA Course Educational Objectives The model of object oriented programming: abstract data types, encapsulation, CEO1 inheritance and polymorphism Fundamental features of an object oriented language like Java: obje...",
+      "full_text_length": 2100,
+      "tables_found": 1
+    },
+    "page_33": {
+      "page": 33,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu Unit - II [12Hrs] Introduction to Classes and Objects. Constructors, static Keyword, this Keyword, Array of Objects, Access Modifiers (Public, Private, Protected, Default). Inheritance, Types of Inheritance and Java supported Inheritance, super, Polymorphism, Method Overloading, Constructor Overloading,...",
+      "full_text_length": 2153,
+      "tables_found": 1
+    },
+    "page_34": {
+      "page": 34,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu IV Semester [Second Year] Subject Code Name of the Subject L T P C QP Fundamentals of Python Programming 3 1 0 4 A Course Educational Objectives CEO1 To understand the basics of programming using Python. CEO2 To Construct and execute basic programs in Python. CEO3 To implement database connectivity, CGI...",
+      "full_text_length": 1857,
+      "tables_found": 1
+    },
+    "page_35": {
+      "page": 35,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu python, For loop using ranges, string, list and dictionaries, Use of while loops in python, Loop manipulation using pass, continue, break and else, Programming using Python conditional and loops block Python Functions, Modules And Packages:Organizing python codes using functions, Organizing python proje...",
+      "full_text_length": 2892,
+      "tables_found": 1
+    },
+    "page_36": {
+      "page": 36,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu Subject Code Name of the Subject L T P C QP Computer Organization and Architecture 3 0 0 3 A Course Educational Objectives CEO1 Identify the functional units in a digital computer system, CEO2 Distinguish between the various ISA styles and trace the execution sequence of an instruction through the proce...",
+      "full_text_length": 1793,
+      "tables_found": 1
+    },
+    "page_37": {
+      "page": 37,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu Level Parallelism, Basic Concepts of Pipelining, Pipelined Implementation of Data path and Control, Hazards, Structural, Data and Control Hazards ,Exception handling. Parallelism and Multiprocessor Architecture, Flynn's Classification, UMA, NUMA, Distributed Memory Architecture. Array and Vector Process...",
+      "full_text_length": 2168,
+      "tables_found": 1
+    },
+    "page_38": {
+      "page": 38,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu Subject Code Name of the Subject L T P C QP BCSPC3020 DESIGN AND ANALYSIS OF ALGORITHMS 3 1 0 4 A Course Educational Objectives CEO1 Analyze the asymptotic performance of algorithms CEO2 Demonstrate familiarity with major algorithms CEO3 Apply important algorithmic design paradigms and methods of analys...",
+      "full_text_length": 1441,
+      "tables_found": 1
+    },
+    "page_39": {
+      "page": 39,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu Unit - II [15Hrs] Divide-and- conquer Approach: Binary search, Quick sort, Merge sort, Heap Sort, Priority Queue, Lower bounds for sorting. Worst case analysis of Quick sort. Dynamic programming methodology: Elements of dynamic programming, Matrix-chain multiplication, Longest common subsequence, Assemb...",
+      "full_text_length": 2035,
+      "tables_found": 1
+    },
+    "page_40": {
+      "page": 40,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu Subject Code Subject Code L T P C QP Computer Networks 3 0 0 3 A Course Educational Objectives CEO1 To discuss the digital data communication techniques CEO2 Gain knowledge on basic concepts of data communication layers, protocols and performance CEO3 Understand a few representative protocols and networ...",
+      "full_text_length": 1125,
+      "tables_found": 1
+    },
+    "page_41": {
+      "page": 41,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu UNIT:1 (12 Hours) Overview of Data Communications and Networking. Networks models – TCP/IP Protocol Suite , OSI model – Layers in OSI Digital Transmission: Line coding, Block coding, Sampling, Transmission mode. Analog Transmission: Modulation of Digital and Analog Data; Transmission Media: Guided Media...",
+      "full_text_length": 2223,
+      "tables_found": 1
+    },
+    "page_42": {
+      "page": 42,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu Subject Code Name of the Subject L T P C QP Formal Language & Automata Theory 3 1 0 4 A Course Educational Objectives CEO1 To familiarize students to construct regular expressions, regular grammars & to identify non - regular languages CEO2 Teach students to identify context - free languages, to convert...",
+      "full_text_length": 1453,
+      "tables_found": 1
+    },
+    "page_43": {
+      "page": 43,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA SCHOOL OF ENGINEERING Incorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE Accredited by NAAC with a CGPA of 3.28/4 at A Grade www.giet.edu UNIT:1 (12 Hours) Mathematical preliminaries: Alphabet, String, Languages, Grammars, Strings and operations on strings. Finite Automata: Definition, Basic model, Types of Finite Automata, Design of DFA, Design of NFA, NFA vs. DFA, Eliminating ε-transitions from NFA, NFA to DFA conversion, NFA or DFA as ...",
+      "full_text_length": 2494,
+      "tables_found": 1
+    },
+    "page_44": {
+      "page": 44,
+      "text_preview": "GIET UNIVERSITY, GUNUPUR, ODISHA\nSCHOOL OF ENGINEERING\nIncorporated by Act 23 of Govt. of Odisha and under approval of UGC & AICTE\nAccredited by NAAC with a CGPA of 3.28/4 at A Grade\nwww.giet.edu",
+      "full_text_length": 195,
+      "tables_found": 0
+    }
+  },
+  "tables": [
+    {
+      "page": 2,
+      "table_index": 0,
+      "rows": 11,
+      "columns": 11,
+      "sample": [
+        {
+          "0": "SL.\nNO.",
+          "1": "COURSE WORK -\nSUBJECTS AREA",
+          "2": "CREDITS / SEMESTER",
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": "TOTAL\nCREDITS"
+        },
+        {
+          "0": null,
+          "1": null,
+          "2": "I",
+          "3": "II",
+          "4": "III",
+          "5": "IV",
+          "6": "V",
+          "7": "VI",
+          "8": "VII",
+          "9": "VIII",
+          "10": null
+        },
+        {
+          "0": "1",
+          "1": "Humanities and Social Sciences\nincluding Management Courses",
+          "2": "3",
+          "3": "3",
+          "4": "2",
+          "5": "2",
+          "6": "-",
+          "7": "-",
+          "8": "3",
+          "9": "-",
+          "10": "13"
+        },
+        {
+          "0": "2",
+          "1": "Basic Science Courses",
+          "2": "8",
+          "3": "8",
+          "4": "4",
+          "5": "-",
+          "6": "-",
+          "7": "-",
+          "8": "-",
+          "9": "-",
+          "10": "20"
+        },
+        {
+          "0": "3",
+          "1": "Engineering Science Courses\nincluding workshop, drawing,\nbasics of electrical\nmechanical/computer etc.",
+          "2": "10",
+          "3": "10",
+          "4": "4",
+          "5": "3",
+          "6": "-",
+          "7": "-",
+          "8": "-",
+          "9": "-",
+          "10": "27"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "table_index": 0,
+      "rows": 9,
+      "columns": 6,
+      "sample": [
+        {
+          "0": "Sl.\nNo.",
+          "1": "Category",
+          "2": "Course\nCode",
+          "3": "Course Title",
+          "4": "Hours per week\nL T P",
+          "5": "Credits"
+        },
+        {
+          "0": "1",
+          "1": "Basic\nScience\nCourses",
+          "2": "",
+          "3": "Engineering Mathematics-I",
+          "4": "3 1 0",
+          "5": "4"
+        },
+        {
+          "0": "2",
+          "1": "Basic\nScience\nCourses",
+          "2": "",
+          "3": "Engineering Physics /\nEngineering Chemistry",
+          "4": "3 0 2",
+          "5": "4"
+        },
+        {
+          "0": "3",
+          "1": "Engineering\nScience\nCourses",
+          "2": "",
+          "3": "Basic Electronics / Basic\nElectrical Engineering 3 0 2",
+          "4": null,
+          "5": "`4"
+        },
+        {
+          "0": "4",
+          "1": "Engineering\nScience\nCourses",
+          "2": "",
+          "3": "Programming for Problem\nSolving",
+          "4": "2 0 4",
+          "5": "4"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "table_index": 0,
+      "rows": 9,
+      "columns": 6,
+      "sample": [
+        {
+          "0": "Sl.\nNo.",
+          "1": "Category",
+          "2": "Course\nCode",
+          "3": "Course Title",
+          "4": "Hours per\nweek\nL T P",
+          "5": "Credits"
+        },
+        {
+          "0": "1",
+          "1": "Basic\nScience\nCourses",
+          "2": "",
+          "3": "Engineering Mathematics-II",
+          "4": "3 1 0",
+          "5": "4"
+        },
+        {
+          "0": "2",
+          "1": "Basic\nScience\nCourses",
+          "2": "",
+          "3": "Engineering Chemistry /\nEngineering Physics",
+          "4": "3 0 2",
+          "5": "4"
+        },
+        {
+          "0": "3",
+          "1": "Engineering\nScience\nCourses",
+          "2": "",
+          "3": "Basic Electrical Engineering /\nBasic Electronics 3 0 2",
+          "4": null,
+          "5": "4"
+        },
+        {
+          "0": "4",
+          "1": "Engineering\nScience\nCourses",
+          "2": "",
+          "3": "Data Structure & Algorithms",
+          "4": "2 0 4",
+          "5": "4"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "table_index": 0,
+      "rows": 10,
+      "columns": 6,
+      "sample": [
+        {
+          "0": "Sl.\nNo.",
+          "1": "Category",
+          "2": "Course\nCode",
+          "3": "Course Title",
+          "4": "Hours per week\nL T P",
+          "5": "Credits"
+        },
+        {
+          "0": "1",
+          "1": "Basic\nScience\nCourses",
+          "2": "",
+          "3": "Discrete Mathematics",
+          "4": "3 1 0",
+          "5": "4"
+        },
+        {
+          "0": "2",
+          "1": "Engineering\nScience\nCourses",
+          "2": "",
+          "3": "Data Base Management\nSystems",
+          "4": "3 0 2",
+          "5": "4"
+        },
+        {
+          "0": "3",
+          "1": "Professional\nCore\nCourses",
+          "2": "",
+          "3": "Digital Electronics",
+          "4": "3 0 2",
+          "5": "4"
+        },
+        {
+          "0": "4",
+          "1": "Professional\nCore\nCourses",
+          "2": "",
+          "3": "Operating Systems",
+          "4": "3 0 2",
+          "5": "4"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "table_index": 0,
+      "rows": 9,
+      "columns": 6,
+      "sample": [
+        {
+          "0": "Sl.\nNo.",
+          "1": "Category",
+          "2": "Course\nCode",
+          "3": "Course Title",
+          "4": "Hours per week\nL T P",
+          "5": "Credits"
+        },
+        {
+          "0": "1",
+          "1": "Engineering\nScience\nCourses",
+          "2": "",
+          "3": "Fundamental of Python\nProgramming",
+          "4": "2 0 2",
+          "5": "3"
+        },
+        {
+          "0": "2",
+          "1": "Professional\nCore\nCourses",
+          "2": "",
+          "3": "Computer Organization &\nArchitecture",
+          "4": "3 0 2",
+          "5": "4"
+        },
+        {
+          "0": "3",
+          "1": "Professional\nCore\nCourses",
+          "2": "",
+          "3": "Design and Analysis of\nAlgorithms",
+          "4": "3 0 2",
+          "5": "4"
+        },
+        {
+          "0": "4",
+          "1": "Professional\nCore\nCourses",
+          "2": "",
+          "3": "Computer Networks",
+          "4": "3 0 2",
+          "5": "4"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "table_index": 0,
+      "rows": 9,
+      "columns": 6,
+      "sample": [
+        {
+          "0": "Sl.\nNo.",
+          "1": "Category",
+          "2": "Course\nCode",
+          "3": "Course Title",
+          "4": "Hours per week\nL T P",
+          "5": "Credits"
+        },
+        {
+          "0": "1",
+          "1": "Professional\nCore Courses",
+          "2": "",
+          "3": "Artificial Intelligence",
+          "4": "3 0 0",
+          "5": "3"
+        },
+        {
+          "0": "2",
+          "1": "Professional\nCore Courses",
+          "2": "",
+          "3": "Compiler Design",
+          "4": "3 0 0",
+          "5": "3"
+        },
+        {
+          "0": "3",
+          "1": "Professional\nCore Courses",
+          "2": "",
+          "3": "Internet of Things",
+          "4": "3 0 2",
+          "5": "4"
+        },
+        {
+          "0": "4",
+          "1": "Professional\nCore Courses",
+          "2": "",
+          "3": "Data Mining & Data\nWarehousing",
+          "4": "3 0 2",
+          "5": "4"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "table_index": 1,
+      "rows": 9,
+      "columns": 3,
+      "sample": [
+        {
+          "0": "Sl.\nNo.",
+          "1": "Specialization",
+          "2": "Professional Elective - 1"
+        },
+        {
+          "0": "1.",
+          "1": "Artificial Intelligence &\nMachine Learning",
+          "2": "Fuzzy logic and its applications"
+        },
+        {
+          "0": null,
+          "1": null,
+          "2": "Digital Image Processing"
+        },
+        {
+          "0": "2.",
+          "1": "Data Science",
+          "2": "Information Storage and Management"
+        },
+        {
+          "0": null,
+          "1": null,
+          "2": "Data Preparation and Analysis"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "table_index": 0,
+      "rows": 8,
+      "columns": 6,
+      "sample": [
+        {
+          "0": "Sl.\nNo.",
+          "1": "Category",
+          "2": "Course\nCode",
+          "3": "Course Title",
+          "4": "Hours per week\nL T P",
+          "5": "Credits"
+        },
+        {
+          "0": "1",
+          "1": "Professional\nCore Courses",
+          "2": "",
+          "3": "Software Engineering",
+          "4": "3 0 2",
+          "5": "4"
+        },
+        {
+          "0": "2",
+          "1": "Professional\nCore Courses",
+          "2": "",
+          "3": "Computer Graphics",
+          "4": "3 0 0",
+          "5": "3"
+        },
+        {
+          "0": "3",
+          "1": "Professional\nCore Courses",
+          "2": "",
+          "3": "Microprocessors and\nMicrocontrollers",
+          "4": "3 0 0",
+          "5": "4"
+        },
+        {
+          "0": "4",
+          "1": "Professional\nElective\nCourses",
+          "2": "",
+          "3": "Professional Elective - 2",
+          "4": "3 0 0",
+          "5": "3"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "table_index": 1,
+      "rows": 9,
+      "columns": 4,
+      "sample": [
+        {
+          "0": "Sl.\nNo.",
+          "1": "Specialization",
+          "2": "Professional Elective - 2",
+          "3": "Professional Elective - 3"
+        },
+        {
+          "0": "1.",
+          "1": "Artificial Intelligence\n& Machine Learning",
+          "2": "Genetic Algorithm and its\nApplications",
+          "3": "Artificial Neural Networks"
+        },
+        {
+          "0": null,
+          "1": null,
+          "2": "Computational Neuroscience",
+          "3": "Advanced Algorithms"
+        },
+        {
+          "0": "2.",
+          "1": "Data Science",
+          "2": "Introduction to Data Science",
+          "3": "Machine Learning"
+        },
+        {
+          "0": null,
+          "1": null,
+          "2": "Web Intelligence",
+          "3": "Business Intelligence and\nAnalytics"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "table_index": 0,
+      "rows": 8,
+      "columns": 6,
+      "sample": [
+        {
+          "0": "Sl.\nNo.",
+          "1": "Category",
+          "2": "Course\nCode",
+          "3": "Course Title",
+          "4": "Hours per week\nL T P",
+          "5": "Credits"
+        },
+        {
+          "0": "1",
+          "1": "Professional\nElective Courses",
+          "2": "",
+          "3": "Professional Elective - 4",
+          "4": "3 0 0",
+          "5": "3"
+        },
+        {
+          "0": "2",
+          "1": "Professional\nElective Courses",
+          "2": "",
+          "3": "Professional Elective - 5",
+          "4": "3 0 0",
+          "5": "3"
+        },
+        {
+          "0": "3",
+          "1": "Open Elective\nCourses",
+          "2": "",
+          "3": "Open Elective - 3",
+          "4": "3 0 0",
+          "5": "3"
+        },
+        {
+          "0": "4",
+          "1": "Humanities\nand Social\nSciences\nincluding\nManagement\nCourses",
+          "2": "",
+          "3": "Entrepreneurship Development /\nHuman Resource Management",
+          "4": "2 1 0",
+          "5": "3"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "table_index": 1,
+      "rows": 9,
+      "columns": 4,
+      "sample": [
+        {
+          "0": "Sl.\nNo.",
+          "1": "Specialization",
+          "2": "Professional Elective - 4",
+          "3": "Professional Elective - 5"
+        },
+        {
+          "0": "1.",
+          "1": "Artificial Intelligence\n& Machine Learning",
+          "2": "Statistical Machine Learning",
+          "3": "Deep Learning"
+        },
+        {
+          "0": null,
+          "1": null,
+          "2": "Intelligent Machining",
+          "3": "Robotics: Computational\nMotion Planning"
+        },
+        {
+          "0": "2.",
+          "1": "Data Science",
+          "2": "Artificial Neural Network",
+          "3": "Big data & Visualization"
+        },
+        {
+          "0": null,
+          "1": null,
+          "2": "High Performance Computing",
+          "3": "Statistical Computing"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "table_index": 0,
+      "rows": 6,
+      "columns": 6,
+      "sample": [
+        {
+          "0": "Sl.\nNo.",
+          "1": "Category",
+          "2": "Course\nCode",
+          "3": "Course Title",
+          "4": "Hours per week\nL T P",
+          "5": "Credits"
+        },
+        {
+          "0": "1",
+          "1": "Professional\nElective\nCourses",
+          "2": "",
+          "3": "Professional Elective - 6",
+          "4": "3 0 0",
+          "5": "3"
+        },
+        {
+          "0": "2",
+          "1": "Open\nElective\nCourses",
+          "2": "",
+          "3": "Open Elective - 4",
+          "4": "3 0 0",
+          "5": "3"
+        },
+        {
+          "0": "3",
+          "1": "Open\nElective\nCourses",
+          "2": "",
+          "3": "Open Elective - 5",
+          "4": "3 0 0",
+          "5": "3"
+        },
+        {
+          "0": "4",
+          "1": "Project",
+          "2": "",
+          "3": "Project Work-II &\nDissertation",
+          "4": "0 0 16",
+          "5": "8"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "table_index": 1,
+      "rows": 9,
+      "columns": 3,
+      "sample": [
+        {
+          "0": "Sl.\nNo.",
+          "1": "Specialization",
+          "2": "Professional Elective - 6"
+        },
+        {
+          "0": "1.",
+          "1": "Artificial Intelligence & Machine\nLearning",
+          "2": "Computer Vision"
+        },
+        {
+          "0": null,
+          "1": null,
+          "2": "Natural Language Processing"
+        },
+        {
+          "0": "2.",
+          "1": "Data Science",
+          "2": "Deep Learning"
+        },
+        {
+          "0": null,
+          "1": null,
+          "2": "Streaming Analytics"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "table_index": 0,
+      "rows": 13,
+      "columns": 5,
+      "sample": [
+        {
+          "0": "ARTIFICIAL\nINTELLIGENCE\n& MACHINE\nLEARNING",
+          "1": "DATA SCIENCE",
+          "2": "CYBER SECURITY",
+          "3": "INTERNET OF\nTHINGS",
+          "4": "OPEN\nELECTIVES"
+        },
+        {
+          "0": "Fuzzy Logic and\nits Applications",
+          "1": "Information\nStorage and\nManagement",
+          "2": "Information\nSecurity",
+          "3": "Wireless Sensor\nNetworks",
+          "4": "Soft Skills and\nInterpersonal\nCommunication"
+        },
+        {
+          "0": "Digital Image\nProcessing",
+          "1": "Data\nPreprocessing\nand Analysis",
+          "2": "Cyber Security and\nInformation\nAssurance",
+          "3": "Mobile Computing",
+          "4": "Human Resource\nDevelopment"
+        },
+        {
+          "0": "Genetic Algorithm\nand its\nApplications",
+          "1": "Introduction to\nData Science",
+          "2": "Cryptography and\nNetwork Security",
+          "3": "IOT Architecture\nand Protocols",
+          "4": "Cyber Law and\nEthics"
+        },
+        {
+          "0": "Computational\nNeuroscience",
+          "1": "Web\nIntelligence",
+          "2": "Audit and Risk\nAssessment",
+          "3": "Software Defined\nNetworks",
+          "4": "Economic\nPolicies in India"
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "table_index": 0,
+      "rows": 11,
+      "columns": 6,
+      "sample": [
+        {
+          "0": "Basket",
+          "1": "Basket Category",
+          "2": "%",
+          "3": "Credits to be acquired",
+          "4": null,
+          "5": null
+        },
+        {
+          "0": null,
+          "1": null,
+          "2": null,
+          "3": "Theory\nCourse",
+          "4": "Practice\nCourse",
+          "5": "Total Credits"
+        },
+        {
+          "0": "1",
+          "1": "Humanities and Social Sciences\nincluding Management courses",
+          "2": "8.1",
+          "3": "11",
+          "4": "02",
+          "5": "13"
+        },
+        {
+          "0": "2",
+          "1": "Basic Science courses",
+          "2": "12.5",
+          "3": "18",
+          "4": "02",
+          "5": "20"
+        },
+        {
+          "0": "3",
+          "1": "Engineering Science courses including\nworkshop, drawing, basics of\nelectrical/mechanical/computer etc.",
+          "2": "16.9",
+          "3": "17",
+          "4": "10",
+          "5": "27"
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "table_index": 0,
+      "rows": 8,
+      "columns": 8,
+      "sample": [
+        {
+          "0": "SL.\nNO.",
+          "1": "Code No.",
+          "2": "Course Title",
+          "3": "Hours per week",
+          "4": null,
+          "5": null,
+          "6": "Total\nCredits",
+          "7": "Semester"
+        },
+        {
+          "0": null,
+          "1": null,
+          "2": null,
+          "3": "Lecture",
+          "4": "Tutorial",
+          "5": "Practical",
+          "6": null,
+          "7": null
+        },
+        {
+          "0": "1",
+          "1": "",
+          "2": "Communicative English &\nSoft Skills(CESS)",
+          "3": "2",
+          "4": "0",
+          "5": "2",
+          "6": "3",
+          "7": "I"
+        },
+        {
+          "0": "2",
+          "1": "",
+          "2": "Communicative English &\nTechnical\nCommunication(CETC)",
+          "3": "2",
+          "4": "0",
+          "5": "2",
+          "6": "3",
+          "7": "II"
+        },
+        {
+          "0": "3",
+          "1": "",
+          "2": "Organizational Behavior",
+          "3": "2",
+          "4": "0",
+          "5": "0",
+          "6": "2",
+          "7": "III"
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "table_index": 1,
+      "rows": 8,
+      "columns": 8,
+      "sample": [
+        {
+          "0": "SL.\nNO.",
+          "1": "Code No.",
+          "2": "Course Title",
+          "3": "Hours per week",
+          "4": null,
+          "5": null,
+          "6": "Total\nCredits",
+          "7": "Semester"
+        },
+        {
+          "0": null,
+          "1": null,
+          "2": null,
+          "3": "Lecture",
+          "4": "Tutorial",
+          "5": "Practical",
+          "6": null,
+          "7": null
+        },
+        {
+          "0": "1",
+          "1": "",
+          "2": "Engineering\nMathematics-I",
+          "3": "3",
+          "4": "1",
+          "5": "0",
+          "6": "4",
+          "7": "I"
+        },
+        {
+          "0": "2",
+          "1": "",
+          "2": "Engineering Physics",
+          "3": "3",
+          "4": "0",
+          "5": "2",
+          "6": "4",
+          "7": "I/II"
+        },
+        {
+          "0": "3",
+          "1": "",
+          "2": "Engineering Chemistry",
+          "3": "3",
+          "4": "0",
+          "5": "2",
+          "6": "4",
+          "7": "I/II"
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "table_index": 0,
+      "rows": 11,
+      "columns": 8,
+      "sample": [
+        {
+          "0": "SL.\nNO.",
+          "1": "Code No.",
+          "2": "Course Title",
+          "3": "Hours per week",
+          "4": null,
+          "5": null,
+          "6": "Total\nCredits",
+          "7": "Semester"
+        },
+        {
+          "0": null,
+          "1": null,
+          "2": null,
+          "3": "Lecture",
+          "4": "Tutorial",
+          "5": "Practical",
+          "6": null,
+          "7": null
+        },
+        {
+          "0": "1",
+          "1": "",
+          "2": "Basics of Electronics /\nBasic Electrical\nEngineering",
+          "3": "3",
+          "4": "0",
+          "5": "2",
+          "6": "4",
+          "7": "I"
+        },
+        {
+          "0": "2",
+          "1": "",
+          "2": "Programming for\nProblem Solving",
+          "3": "2",
+          "4": "0",
+          "5": "4",
+          "6": "4",
+          "7": "I"
+        },
+        {
+          "0": "3",
+          "1": "",
+          "2": "Engineering Graphics\n& Design",
+          "3": "1",
+          "4": "0",
+          "5": "2",
+          "6": "2",
+          "7": "I/II"
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "table_index": 0,
+      "rows": 17,
+      "columns": 8,
+      "sample": [
+        {
+          "0": "SL.\nNO.",
+          "1": "Code No.",
+          "2": "Course Title",
+          "3": "Hours per week",
+          "4": null,
+          "5": null,
+          "6": "Total\nCredits",
+          "7": "Semester"
+        },
+        {
+          "0": null,
+          "1": null,
+          "2": null,
+          "3": "Lecture",
+          "4": "Tutorial",
+          "5": "Practical",
+          "6": null,
+          "7": null
+        },
+        {
+          "0": "1",
+          "1": "",
+          "2": "Digital Electronics",
+          "3": "3",
+          "4": "0",
+          "5": "2",
+          "6": "4",
+          "7": "III"
+        },
+        {
+          "0": "2",
+          "1": "",
+          "2": "Operating Systems",
+          "3": "3",
+          "4": "0",
+          "5": "2",
+          "6": "4",
+          "7": "III"
+        },
+        {
+          "0": "3",
+          "1": "",
+          "2": "Object Oriented\nProgramming through\nJava",
+          "3": "3",
+          "4": "0",
+          "5": "2",
+          "6": "4",
+          "7": "III"
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "table_index": 0,
+      "rows": 9,
+      "columns": 8,
+      "sample": [
+        {
+          "0": "SL.\nNO.",
+          "1": "Code No.",
+          "2": "Course Title",
+          "3": "Hours per week",
+          "4": null,
+          "5": null,
+          "6": "Total\nCredits",
+          "7": "Semester"
+        },
+        {
+          "0": null,
+          "1": null,
+          "2": null,
+          "3": "Lecture",
+          "4": "Tutorial",
+          "5": "Practical",
+          "6": null,
+          "7": null
+        },
+        {
+          "0": "1",
+          "1": "",
+          "2": "Professional Elective - 1",
+          "3": "3",
+          "4": "0",
+          "5": "0",
+          "6": "3",
+          "7": "V"
+        },
+        {
+          "0": "2",
+          "1": "",
+          "2": "Professional Elective - 2",
+          "3": "3",
+          "4": "0",
+          "5": "0",
+          "6": "3",
+          "7": "VI"
+        },
+        {
+          "0": "3",
+          "1": "",
+          "2": "Professional Elective - 3",
+          "3": "3",
+          "4": "0",
+          "5": "0",
+          "6": "3",
+          "7": "VI"
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "table_index": 1,
+      "rows": 8,
+      "columns": 8,
+      "sample": [
+        {
+          "0": "SL.\nNO.",
+          "1": "Code No.",
+          "2": "Course Title",
+          "3": "Hours per week",
+          "4": null,
+          "5": null,
+          "6": "Total\nCredits",
+          "7": "Semester"
+        },
+        {
+          "0": null,
+          "1": null,
+          "2": null,
+          "3": "Lecture",
+          "4": "Tutorial",
+          "5": "Practical",
+          "6": null,
+          "7": null
+        },
+        {
+          "0": "1",
+          "1": "",
+          "2": "Open Elective - 1",
+          "3": "3",
+          "4": "0",
+          "5": "0",
+          "6": "3",
+          "7": "V"
+        },
+        {
+          "0": "2",
+          "1": "",
+          "2": "Open Elective - 2",
+          "3": "3",
+          "4": "0",
+          "5": "0",
+          "6": "3",
+          "7": "VI"
+        },
+        {
+          "0": "3",
+          "1": "",
+          "2": "Open Elective - 3",
+          "3": "3",
+          "4": "0",
+          "5": "0",
+          "6": "3",
+          "7": "VII"
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "table_index": 0,
+      "rows": 8,
+      "columns": 8,
+      "sample": [
+        {
+          "0": "SL.\nNO.",
+          "1": "Code No.",
+          "2": "Course Title",
+          "3": "Hours per week",
+          "4": null,
+          "5": null,
+          "6": "Total\nCredits",
+          "7": "Semester"
+        },
+        {
+          "0": null,
+          "1": null,
+          "2": null,
+          "3": "Lecture",
+          "4": "Tutorial",
+          "5": "Practical",
+          "6": null,
+          "7": null
+        },
+        {
+          "0": "1",
+          "1": "",
+          "2": "Summer Industry\nInternship",
+          "3": "-",
+          "4": "-",
+          "5": "2",
+          "6": "1",
+          "7": "III"
+        },
+        {
+          "0": "2",
+          "1": "",
+          "2": "Summer Industry\nInternship",
+          "3": "-",
+          "4": "-",
+          "5": "2",
+          "6": "1",
+          "7": "V"
+        },
+        {
+          "0": "3",
+          "1": "",
+          "2": "Summer Industry\nInternship",
+          "3": "-",
+          "4": "-",
+          "5": "2",
+          "6": "1",
+          "7": "VII"
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "table_index": 1,
+      "rows": 7,
+      "columns": 8,
+      "sample": [
+        {
+          "0": "SL.\nNO.",
+          "1": "Code No.",
+          "2": "Course Title",
+          "3": "Hours per week",
+          "4": null,
+          "5": null,
+          "6": "Total\nCredits",
+          "7": "Semester"
+        },
+        {
+          "0": null,
+          "1": null,
+          "2": null,
+          "3": "Lecture",
+          "4": "Tutorial",
+          "5": "Practical",
+          "6": null,
+          "7": null
+        },
+        {
+          "0": "1",
+          "1": "",
+          "2": "Induction Program",
+          "3": "-",
+          "4": "-",
+          "5": "-",
+          "6": "0",
+          "7": "I"
+        },
+        {
+          "0": "2",
+          "1": "",
+          "2": "NCC/NSS/Yoga",
+          "3": "-",
+          "4": "-",
+          "5": "-",
+          "6": "0",
+          "7": "II"
+        },
+        {
+          "0": "3",
+          "1": "",
+          "2": "Environmental\nSciences",
+          "3": "-",
+          "4": "-",
+          "5": "-",
+          "6": "0",
+          "7": "III"
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "table_index": 0,
+      "rows": 3,
+      "columns": 7,
+      "sample": [
+        {
+          "0": "Course Code",
+          "1": "Course Title",
+          "2": "L",
+          "3": "T",
+          "4": "P",
+          "5": "C",
+          "6": ""
+        },
+        {
+          "0": "BESBS1040",
+          "1": "Programming for Problem Solving",
+          "2": "2",
+          "3": "0",
+          "4": "0",
+          "5": "2",
+          "6": ""
+        },
+        {
+          "0": "Pre -Requisite: Computer basics.",
+          "1": null,
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "table_index": 0,
+      "rows": 8,
+      "columns": 2,
+      "sample": [
+        {
+          "0": "Course Educational Objective",
+          "1": null
+        },
+        {
+          "0": "CEO1: To formulate algorithm, translate into program and then execute the programs for\nverifying its correctness.",
+          "1": null
+        },
+        {
+          "0": "CEO2: To analyze a problem for knowing its efficiency and decompose it into functions using\ndivide and conquer approach.",
+          "1": null
+        },
+        {
+          "0": "Course Outcome: Student should be able to",
+          "1": null
+        },
+        {
+          "0": "CO1",
+          "1": "Formulate simple algorithms for arithmetic and logical problems and translate into\nprograms."
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "table_index": 1,
+      "rows": 5,
+      "columns": 13,
+      "sample": [
+        {
+          "0": "",
+          "1": "PO1",
+          "2": "PO2",
+          "3": "PO3",
+          "4": "PO4",
+          "5": "PO5",
+          "6": "PO6",
+          "7": "PO7",
+          "8": "PO8",
+          "9": "PO9",
+          "10": "PO10",
+          "11": "PO11",
+          "12": "PO12"
+        },
+        {
+          "0": "CO1",
+          "1": "3",
+          "2": "3",
+          "3": "1",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": ""
+        },
+        {
+          "0": "CO2",
+          "1": "1",
+          "2": "3",
+          "3": "2",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": ""
+        },
+        {
+          "0": "CO3",
+          "1": "1",
+          "2": "3",
+          "3": "3",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": ""
+        },
+        {
+          "0": "CO4",
+          "1": "2",
+          "2": "2",
+          "3": "3",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": ""
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "table_index": 2,
+      "rows": 5,
+      "columns": 1,
+      "sample": [
+        {
+          "0": "UNIT- I (10 Hours)\nProgramming: Introduction to Structured Programming Approach, Basic structure of C program,\nC compilers, Compilation and Execution Process, Error debugging.\nC Tokens, keywords, identifiers, data types, constants, variables, standard I/O statements,\nOperators classifications, Operator precedence and Associativity, Implicit and Explicit type\ncasting. Control Flow Statements: Selection Logic: if, if..else, else if ladder, nested if,\nswitch..case."
+        },
+        {
+          "0": "UNIT- II (10 Hours)\nIteration Logic: while, do-while and for loop, break, continue, nested loop.\nArrays: 1-D Array: declaration, initialization, array operations, 2-D Array: declaration,\nInitialization, 2-D array operations"
+        },
+        {
+          "0": "UNIT- III (10 Hours)\nCharacter arrays and Strings: String handling operations, strcmp(), strcat(), strcpy(), strlen().\nUser Defined Functions: Function categories, Parameter passing in functions, Passing arrays to\nfunctions, Recursive functions,storage classes"
+        },
+        {
+          "0": "UNIT- IV (10 Hours)\nUser Defined Data Types: Structures: Declaration and initialization of structures, accessing\nstructure elements , nested structures, structures and arrays, structures and functions, typedef\nPointers: Declaration and initialization of pointers, Pointer arithmetic, Pointer and Arrays, call by\nvalue and call by address, Function returning pointer, pointer to structure, Dynamic memory\nallocation."
+        },
+        {
+          "0": "Text Books:\n1) E. Balaguruswamy, Programming in ANSI C, 7th edition, Tata McGraw-Hill"
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "table_index": 0,
+      "rows": 2,
+      "columns": 1,
+      "sample": [
+        {
+          "0": "2) Let us ‘C’ by Yashwant Kanethekar, 16th edition, BPB Publications\n3) Byron Gottfried, Schaum's Outline of Programming with C, 3rd edition, McGraw-Hill"
+        },
+        {
+          "0": "References:\n1) Brian W. Kernighan and Dennis M. Ritchie, The C Programming Language,2nd edition,\nPrentice Hall of India\n2) Programming in C, by Reema Thareja, 2nd Edition, OUP India\n3) C Programming and Coding by Swatisaxena, BPB Publications."
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "table_index": 1,
+      "rows": 2,
+      "columns": 7,
+      "sample": [
+        {
+          "0": "Course Code",
+          "1": "Course Title",
+          "2": "L",
+          "3": "T",
+          "4": "P",
+          "5": "C",
+          "6": ""
+        },
+        {
+          "0": "BESBS1140",
+          "1": "Programming for Problem Solving\nLaboratory",
+          "2": "0",
+          "3": "0",
+          "4": "4",
+          "5": "2",
+          "6": ""
+        }
+      ]
+    },
+    {
+      "page": 21,
+      "table_index": 0,
+      "rows": 9,
+      "columns": 2,
+      "sample": [
+        {
+          "0": "Pre -Requisite:",
+          "1": null
+        },
+        {
+          "0": "Course Educational Objective",
+          "1": null
+        },
+        {
+          "0": "CEO1: To develop programs for problems on different applications of array, functions,\npointers and structure.",
+          "1": null
+        },
+        {
+          "0": "CEO2: To analyse different problems by comparing and implementing in programming.",
+          "1": null
+        },
+        {
+          "0": "Course Outcome",
+          "1": null
+        }
+      ]
+    },
+    {
+      "page": 21,
+      "table_index": 1,
+      "rows": 5,
+      "columns": 13,
+      "sample": [
+        {
+          "0": "",
+          "1": "PO1",
+          "2": "PO2",
+          "3": "PO3",
+          "4": "PO4",
+          "5": "PO5",
+          "6": "PO6",
+          "7": "PO7",
+          "8": "PO8",
+          "9": "PO9",
+          "10": "PO10",
+          "11": "PO11",
+          "12": "PO12"
+        },
+        {
+          "0": "CO1",
+          "1": "2",
+          "2": "3",
+          "3": "1",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": ""
+        },
+        {
+          "0": "CO2",
+          "1": "1",
+          "2": "2",
+          "3": "2",
+          "4": "1",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": ""
+        },
+        {
+          "0": "CO3",
+          "1": "1",
+          "2": "2",
+          "3": "2",
+          "4": "1",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": ""
+        },
+        {
+          "0": "CO4",
+          "1": "1",
+          "2": "2",
+          "3": "2",
+          "4": "1",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": ""
+        }
+      ]
+    },
+    {
+      "page": 21,
+      "table_index": 2,
+      "rows": 5,
+      "columns": 1,
+      "sample": [
+        {
+          "0": "Lab Experiment 1: Familiarization with programming environment\n1) Introduction to OS: Before starting experiments explain the facilities and operations of OS.\n2) Introduction to the C compiler, Compilation and Execution Process & writing simple\nprograms."
+        },
+        {
+          "0": "Lab Experiment 2: Simple computational problems using arithmetic expressions.\n1) WAP to input radius of a circle and Find the area, perimeter of it.\n2) WAP to input two numbers and swap them without using intermediate variable."
+        },
+        {
+          "0": "Lab Experiment 3: Simple computational problems using arithmetic expressions.\n1) Write a program to accept Fahrenheit and calculate its equivalent Celsius.\n2) WAP to input three unequal numbers and find the greatest using conditional operator."
+        },
+        {
+          "0": "Lab Experiment 4: Problems involving if, switch\n1) Write a program to input a lower case alphabet and test whether it is vowel or consonant.\n(using else..if and switch both)\n2) Write a program to find the greatest among three numbers. (using else..if and switch both)"
+        },
+        {
+          "0": "Lab Experiment 5: while, do..while and for loops:\n1) Write a program to find the Greatest Common Divisor of two integers using while\nstatement.\n2) Write a program to accept a positive integer and test it for Armstrong or not using\ndo..while statement."
+        }
+      ]
+    },
+    {
+      "page": 22,
+      "table_index": 0,
+      "rows": 8,
+      "columns": 1,
+      "sample": [
+        {
+          "0": "Lab Experiment 6: Nested Loop\n1) Write a program to calculate the following sum using nested for statement:\nSum = 1-(x^2)/2! +( x^4)/4! – (x^6)/6! + (x^8)/8! – (x^10)/10!\n2) Write a program to generate the following pyramid using nested for statement:\n1\n1 2 1\n1 2 3 2 1\n1 2 3 4 3 2 1"
+        },
+        {
+          "0": "Lab Experiment 7: 1D Array interaction\n1) Write a program to accept 10 integers in to an array and find largest and smallest integers\npresent in them.\n2) Write a program to input 10 elements into an array. Then search for a given value in the\narray to know its existence."
+        },
+        {
+          "0": "Lab Experiment 8: 2D Array interaction\n3) Write a program to input values into two matrices A(3x4), B(4x3). Perform matrix\nmultiplication and display the resultant matrix.\n4)Write a program to input two strings and test whether they are equal or not using string\nhandling functions."
+        },
+        {
+          "0": "Lab Experiment 9:User Defined Functions\n1) Write a C program which contains three UDF’s namely add(), subtract() and multiply().\nEach function accepts two integers as their arguments and calculate and return the results\n2) Write a program to create an UDF and test a number is prime or not."
+        },
+        {
+          "0": "Lab Experiment 9: Recursive Functions\n1) Write a program to accept 10 elements into an integer array. Find the largest element\npresent using recursive function.\n2) Write a program to generate Fibonacci series using a recursive function."
+        }
+      ]
+    },
+    {
+      "page": 23,
+      "table_index": 0,
+      "rows": 3,
+      "columns": 1,
+      "sample": [
+        {
+          "0": "Teaching Methods: Chalk& Board/ PPT/Video Lecture\n A case study can be given to each student for each UNIT.\n A Mini Project can be given which the student have to do during the semester break."
+        },
+        {
+          "0": "Text Books:\n4) E. Balaguruswamy, Programming in ANSI C, 7th edition, Tata McGraw-Hill\n5) Let us ‘C’ by Yashwant Kanethekar, 16th edition, BPB Publications\n6) Byron Gottfried, Schaum's Outline of Programming with C, 3rd Edition, McGraw-Hill"
+        },
+        {
+          "0": "References:\n4) Brian W. Kernighan and Dennis M. Ritchie, The C Programming Language,2nd\nedition, Prentice Hall of India\n5) Programming in C, by Reema Thareja, 2nd Edition, OUP India\n6) C Programming and Coding by Swatisaxena, BPB Publications"
+        }
+      ]
+    },
+    {
+      "page": 24,
+      "table_index": 0,
+      "rows": 11,
+      "columns": 8,
+      "sample": [
+        {
+          "0": "Course Code",
+          "1": null,
+          "2": "Course Title",
+          "3": "L",
+          "4": "T",
+          "5": "P",
+          "6": "C",
+          "7": ""
+        },
+        {
+          "0": "BESBS2040",
+          "1": null,
+          "2": "DATA STRUCTURE AND\nALGORITHMS",
+          "3": "2",
+          "4": "0",
+          "5": "0",
+          "6": "2",
+          "7": ""
+        },
+        {
+          "0": "Pre -Requisite: Basic knowledge of Algorithms",
+          "1": null,
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null
+        },
+        {
+          "0": "Course Educational Objective",
+          "1": null,
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null
+        },
+        {
+          "0": "CEO1:Develop algorithms for performing different operations on arrays, stack, Queue, linked\nlist. Analyze the difference between them and understand different applications. Understand\ndifferent searching and sorting methods and applications.",
+          "1": null,
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null
+        }
+      ]
+    },
+    {
+      "page": 24,
+      "table_index": 1,
+      "rows": 5,
+      "columns": 13,
+      "sample": [
+        {
+          "0": "",
+          "1": "PO1",
+          "2": "PO2",
+          "3": "PO3",
+          "4": "PO4",
+          "5": "PO5",
+          "6": "PO6",
+          "7": "PO7",
+          "8": "PO8",
+          "9": "PO9",
+          "10": "PO10",
+          "11": "PO11",
+          "12": "PO12"
+        },
+        {
+          "0": "CO1",
+          "1": "2",
+          "2": "2",
+          "3": "2",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": ""
+        },
+        {
+          "0": "CO2",
+          "1": "3",
+          "2": "2",
+          "3": "3",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": ""
+        },
+        {
+          "0": "CO3",
+          "1": "3",
+          "2": "3",
+          "3": "3",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": ""
+        },
+        {
+          "0": "CO4",
+          "1": "2",
+          "2": "3",
+          "3": "2",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": ""
+        }
+      ]
+    },
+    {
+      "page": 25,
+      "table_index": 0,
+      "rows": 6,
+      "columns": 1,
+      "sample": [
+        {
+          "0": "Doublelinked list. Basic concept of Circular double linked list."
+        },
+        {
+          "0": "UNIT- III (11 Hours)\nTrees: Introduction, Terminology, Binary Trees, Memory Representation of Binary Trees\nusing arrays and linked lists, Binary Tree traversal methods(recursive and non-recursive) ,\nConstruction of binary tree using in-order & pre-order sequences , in-order & post-order\nsequence. Expression Tree, Construction of expression tree using stack.\nBinary Search Trees: Algorithm for construction, searching and insertion operation,\nIntroduction to Height Balanced trees, Balance factor, Balancing the BST by rotations during\ninsertions of a node."
+        },
+        {
+          "0": "UNIT- IV (11 Hours)\nHeaps: Introduction to binary heaps, definition of a Max-heap, Min-heap, creating Max-Heap\nTree using insertion, Graphs: Terminologies, Memory Graph representation - Adjacency\nmatrix, Incidence Matrix, Linked Representation, path matrix, Warshall’s Algorithm to find\npath matrix, Graph Traversals (BFS & DFS), Topological Sorting Hashing: Hashing\nFunctions: Division, Mid-square, Folding methods. Collision, linear probing, chaining"
+        },
+        {
+          "0": "Teaching Methods: Chalk& Board/ PPT"
+        },
+        {
+          "0": "Text Books:\n1. “Fundamental of Data Structure” (Schaums Series) Tata-McGraw-Hill.\n2. Pai: ”Data Structures & Algorithms; Concepts, Techniques & Algorithms ”Tata\nMcGraw Hill.\n3. Gilberg and Forouzan: “Data Structure- A Pseudo code approach with C” by Thomson\npublication"
+        }
+      ]
+    },
+    {
+      "page": 26,
+      "table_index": 0,
+      "rows": 22,
+      "columns": 17,
+      "sample": [
+        {
+          "0": "Subject Code",
+          "1": null,
+          "2": null,
+          "3": "Name of the Subject",
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": "L",
+          "13": "T",
+          "14": "P",
+          "15": "C",
+          "16": ""
+        },
+        {
+          "0": "BESBS2140",
+          "1": null,
+          "2": null,
+          "3": "DATA STRUCTURE AND ALGORITHMS\nLABORATORY",
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": "0",
+          "13": "0",
+          "14": "4",
+          "15": "2",
+          "16": ""
+        },
+        {
+          "0": "Course Outcomes: Upon successful completion of this course, students should be able to:",
+          "1": null,
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null
+        },
+        {
+          "0": "CO1",
+          "1": "Understand the concepts of algorithms and implement in developing the programs for\ndifferent operations of 1D array",
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null
+        },
+        {
+          "0": "CO2",
+          "1": "Develop programs for performing different operations on matrix, analyze the them and\nunderstand their applications.",
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null
+        }
+      ]
+    },
+    {
+      "page": 27,
+      "table_index": 0,
+      "rows": 9,
+      "columns": 1,
+      "sample": [
+        {
+          "0": "Experiment 7: (linear queue)\nQ1) Write a C program to create a linear queue and perform the following operations: (i)\ninsertion ii) deletion and iii) Traversal"
+        },
+        {
+          "0": "Experiment 8: (circular queue)\nQ1) Write a C program to create a circular queue and perform the following operations: (i)\ninsertion ii) deletion and iii) Traversal"
+        },
+        {
+          "0": "Experiment 9: (sorting)\nQ1) Write a program to implement bubble sort and selection sort on a list of array elements"
+        },
+        {
+          "0": "Experiment 10: (sorting)\nQ1) Write a program to implement linear and binary search on array elements using UDF"
+        },
+        {
+          "0": "Experiment 11: (sorting)\nQ1) Write a program to implement insertion sort on a given list of array elements."
+        }
+      ]
+    },
+    {
+      "page": 28,
+      "table_index": 0,
+      "rows": 24,
+      "columns": 16,
+      "sample": [
+        {
+          "0": "Subject Code",
+          "1": null,
+          "2": null,
+          "3": "Name of the Subject",
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": "L",
+          "12": "T",
+          "13": "P",
+          "14": "C",
+          "15": "QP"
+        },
+        {
+          "0": "",
+          "1": null,
+          "2": null,
+          "3": "DATABASE MANAGEMENT SYSTEM",
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": "3",
+          "12": "0",
+          "13": "0",
+          "14": "3",
+          "15": "A"
+        },
+        {
+          "0": "Course Educational Objectives",
+          "1": null,
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null
+        },
+        {
+          "0": "Pre -Requisite: A student should have basic idea on programming and file systems.",
+          "1": null,
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null
+        },
+        {
+          "0": "CEO 1",
+          "1": "Gain a good understanding of the architecture and functioning of Database\nManagement Systems as well as associated tools and techniques.",
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null
+        }
+      ]
+    },
+    {
+      "page": 29,
+      "table_index": 0,
+      "rows": 6,
+      "columns": 1,
+      "sample": [
+        {
+          "0": "and QBE. Database Design:-Database development life cycle (DDLC), Automated design tools,\nFunctional dependency and Decomposition, Join strategies, Dependency Preservation & lossless\nDesign, Normalization, Normal forms:1NF, 2NF,3NF, and BCNF, Multi-valued Dependencies,\n4NF & 5NF. Query processing and optimization: Evaluation of Relational Algebra Expressions,\nQuery optimization, Query cost estimation."
+        },
+        {
+          "0": "UNIT:3 (10 Hours)\nNetwork and Object Oriented Data models, Storage Strategies: Detailed Storage Architecture,\nStoring Data, Magnetic Disk, RAID, Other Disks, Magnetic Tape, Storage Access, File &\nRecord Organization, File Organizations & Indexes, Order Indices, B+ Tree Index Files, Hashing\nData Dictionary."
+        },
+        {
+          "0": "UNIT:4 (12 Hours)\nTransaction processing and concurrency control: Transaction concepts, properties of transaction,\nconcurrency control, locking and Timestamp methods for concurrency control schemes.\nDatabase Recovery System, Types of Data Base failure & Types of Database Recovery,\nRecovery techniques, fundamental concepts on Object-Oriented Database, Object relational\ndatabase, distributed database, Parallel Database, introduction to Data warehousing & Data\nMining."
+        },
+        {
+          "0": "Teaching Methods: Chalk& Board/ PPT/Video Lectures"
+        },
+        {
+          "0": "Text Books:\n1. Sudarshan, Korth: Database System Concepts, 6th edition, McGraw-Hill Education\n2. Elmasari&Navathe: Fundamentals of Database System, Pearson Education."
+        }
+      ]
+    },
+    {
+      "page": 30,
+      "table_index": 0,
+      "rows": 23,
+      "columns": 16,
+      "sample": [
+        {
+          "0": "Subject Code",
+          "1": null,
+          "2": null,
+          "3": "Name of the Subject",
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": "L",
+          "12": "T",
+          "13": "P",
+          "14": "C",
+          "15": "QP"
+        },
+        {
+          "0": "",
+          "1": null,
+          "2": null,
+          "3": "Operating System",
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": "3",
+          "12": "0",
+          "13": "0",
+          "14": "3",
+          "15": "A"
+        },
+        {
+          "0": "Course Educational Objectives",
+          "1": null,
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null
+        },
+        {
+          "0": "CEO1",
+          "1": "Provide an insight into the basic organization of computer systems.",
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null
+        },
+        {
+          "0": "CEO2",
+          "1": "Familiarize students with various components of an Operating System",
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null
+        }
+      ]
+    },
+    {
+      "page": 31,
+      "table_index": 0,
+      "rows": 5,
+      "columns": 1,
+      "sample": [
+        {
+          "0": "of Synchronization, Monitors, Case Studies: Linux, Windows."
+        },
+        {
+          "0": "UNIT:3 (14 Hours)\nMemory Management and Virtual Memory - Logical & physical Address Space, Swapping,\nContiguous Allocation, Paging, Structure of Page Table. Segmentation, Segmentation with\nPaging, Virtual Memory, Demand Paging, Performance of Demanding Paging, Page\nReplacement Algorithms, Allocation of Frames, Thrashing.\nDeadlocks - System Model, Deadlock Characterization, Methods for Handling Deadlocks,\nDeadlock Prevention, Deadlock Avoidance, Deadlock Detection and Recovery from\nDeadlock."
+        },
+        {
+          "0": "UNIT:4 (14 Hours)\nFile System Interface - The Concept of a File, Access methods, Directory Structure, File\nSystem Mounting, File Sharing, Protection, File System Implementation - File System\nStructure, File System Implementation, Allocation methods, Free-space Management,\nDirectory Implementation, Efficiency and Performance. Mass Storage Structure - Overview\nof Mass Storage Structure, Disk Structure, Disk Scheduling, Disk Management, Swap space\nManagement.\nProtection - System Protection, Goals of Protection, Principles of Protection, Domain of\nProtection, Access Matrix, Implementation of Access Matrix, Access Control, Revocation of\nAccess Rights, Capability-Based Systems, Language-Based Protection."
+        },
+        {
+          "0": "Teaching Methods: Chalk& Board/ PPT/Video Lectures"
+        },
+        {
+          "0": "Text Books/References:\n1. Operating System Principles, Abraham Silberchatz, Peter B. Galvin, Greg Gagne 8th Edition,\nWiley Student Edition.\n2. Operating systems - Internals and Design Principles, W. Stallings, 6th Edition, Pearson.M. G.\nSay, “Performance and design of AC machines”, CBS Publishers, 2002.\n3. Modern Operating Systems, Andrew S Tanenbaum 3rd Edition PHI.\n4. Operating Systems A concept - based Approach, 2nd Edition, D. M. Dhamdhere, and TMH.\n5. Principles of Operating Systems, B. L. Stuart, Cengage learning, India Edition.\n6. Operating Systems, A. S. Godbole, 2nd Edition, TMH\n7. An Introduction to Operating Systems, P.C.P. Bhatt, PHI.\n8. Operating Systems, S, Haldar and A. A. Arvind, Pearson Education.\n9. Operating Systems, R. Elmasri, A. G. Carrick and D. Levine, McGraw Hill.\n10. Operating Systems in depth, T. W. Doeppner, Wiley."
+        }
+      ]
+    },
+    {
+      "page": 32,
+      "table_index": 0,
+      "rows": 22,
+      "columns": 16,
+      "sample": [
+        {
+          "0": "Subject Code",
+          "1": null,
+          "2": null,
+          "3": "Name of the Subject",
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": "L",
+          "12": "T",
+          "13": "P",
+          "14": "C",
+          "15": "QP"
+        },
+        {
+          "0": "",
+          "1": null,
+          "2": null,
+          "3": "OBJECT ORIENTED PROGRAMMING\nTHROUGH JAVA",
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": "3",
+          "12": "0",
+          "13": "0",
+          "14": "3",
+          "15": "A"
+        },
+        {
+          "0": "Course Educational Objectives",
+          "1": null,
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null
+        },
+        {
+          "0": "CEO1",
+          "1": "The model of object oriented programming: abstract data types, encapsulation,\ninheritance and polymorphism",
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null
+        },
+        {
+          "0": "CEO2",
+          "1": "Fundamental features of an object oriented language like Java: object classes and\ninterfaces, exceptions and libraries of object collections",
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null
+        }
+      ]
+    },
+    {
+      "page": 33,
+      "table_index": 0,
+      "rows": 6,
+      "columns": 1,
+      "sample": [
+        {
+          "0": "Unit - II [12Hrs]\nIntroduction to Classes and Objects. Constructors, static Keyword, this Keyword, Array of\nObjects, Access Modifiers (Public, Private, Protected, Default). Inheritance, Types of Inheritance\nand Java supported Inheritance, super, Polymorphism, Method Overloading, Constructor\nOverloading, Method Overriding, Dynamic Method Dispatching. String Manipulations. Wrapper\nclasses, Auto boxing and unboxing. Abstract classes, Interfaces, Multiple Inheritance Using\nInterfaces,\nJava API Packages, User-Defined Packages, Accessing Packages, Error and Exception Handling,\nTypes of exceptions Hierarchy of Exception classes, try, catch, finally, throw, throws,\nCommonly used Exceptions and their details ,User defined exception classes."
+        },
+        {
+          "0": "Unit – III [12 Hrs]\nMultithreading, Thread in Java, Thread execution prevention methods. (yield(), join(), sleep()),\nConcept of Synchronization, Inter Thread Communication, Basics of Deadlock, Demon Thread,\nImprovement in Multithreading, Inner Classes, Introduction, Member inner class, Static inner\nclass, Local inner class, Anonymous inner class.\nIO Streams (java.io package), Byte Stream and Character Stream, Files and Random Access\nFiles, Serialization, Collection Frame Work (java.util), Util Package interfaces, List, Set, Map."
+        },
+        {
+          "0": "Unit – IV [12 Hrs.]\nApplet Introduction, Life Cycle of an Applet, GUI with an Applet, Abstract Window Toolkit\n(AWT), Introduction to GUI, Description of Components and Containers, Component/Container\nhierarchy, Understanding different Components/Container classes and their constructors, Event\nHandling, Different mechanisms of Event Handling, Listener Interfaces, Adapter classes."
+        },
+        {
+          "0": "Teaching Methods: Chalk& Board/ PPT/Video Lectures"
+        },
+        {
+          "0": "Text Book:\n1. Programming in Java. Second Edition. Oxford Higher Education. (SachinMalhotra/\nSauravChoudhary)\n2. Core Java For Beginners. (RashmiKanta Das), Vikas Publication"
+        }
+      ]
+    },
+    {
+      "page": 34,
+      "table_index": 0,
+      "rows": 22,
+      "columns": 16,
+      "sample": [
+        {
+          "0": "Subject Code",
+          "1": null,
+          "2": null,
+          "3": "Name of the Subject",
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": "L",
+          "12": "T",
+          "13": "P",
+          "14": "C",
+          "15": "QP"
+        },
+        {
+          "0": "",
+          "1": null,
+          "2": null,
+          "3": "Fundamentals of Python Programming",
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": "3",
+          "12": "1",
+          "13": "0",
+          "14": "4",
+          "15": "A"
+        },
+        {
+          "0": "Course Educational Objectives",
+          "1": null,
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null
+        },
+        {
+          "0": "CEO1",
+          "1": "To understand the basics of programming using Python.",
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null
+        },
+        {
+          "0": "CEO2",
+          "1": "To Construct and execute basic programs in Python.",
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null
+        }
+      ]
+    },
+    {
+      "page": 35,
+      "table_index": 0,
+      "rows": 6,
+      "columns": 1,
+      "sample": [
+        {
+          "0": "python, For loop using ranges, string, list and dictionaries, Use of while loops in python, Loop\nmanipulation using pass, continue, break and else, Programming using Python conditional and\nloops block\nPython Functions, Modules And Packages:Organizing python codes using functions,\nOrganizing python projects into modules, Importing own module as well as external modules,\nUnderstanding Packages, Powerful Lamda function in python, Programming using functions,\nmodules and external packages\nPython String, List And Dictionary Manipulations : Building blocks of python programs,\nUnderstanding string in-built methods, List manipulation using in-built methods, Dictionary\nmanipulation, Programming using string, list and dictionary in build functions"
+        },
+        {
+          "0": "UNIT:3 (12 Hours)\nPython File Operation : Reading config files in python, Writing log files in python ,\nManipulating file pointer using seek, Programming using file operations, Understanding read\nfunctions, read(), readline() and readlines(), Understanding write functions, write() and\nwritelines()\nPython Object Oriented Programming – OOPS: Concept of class, object and instances,\nConstructor, class attributes and destructors, Real time use of class in live projects, Inheritance ,\noverlapping and overloading operators, Adding and retrieving dynamic attributes of classes ,\nProgramming using Oops support\nPython Regular Expression : Powerful pattern matching and searching, Power of pattern\nsearching using regex in python, Real time parsing of networking or system data using regex,\nPassword, email, url validation using regular expression, Pattern finding programs using regular\nexpression\nPython Exception Handling : Avoiding code break using exception handling, Safe guarding\nfile operation using exception handling, Handling and helping developer with error code,\nProgramming using Exception handling"
+        },
+        {
+          "0": "UNIT:4 (15 Hours)\nPython Database Interaction: SQL Database connection using python, Creating and searching\ntables, Reading and storing config information on database, Programming using database\nconnections\nPython Multithreading:Understanding threads, forking threads, Synchronizing the threads,\nProgramming using multithreading\nPython CGI Introduction : Writing python program for CGI application, Creating menus and\naccessing files, Server client program"
+        },
+        {
+          "0": "Teaching Methods: Chalk& Board/ PPT/Video Lectures"
+        },
+        {
+          "0": "Text Books:\n1. “Python: The Complete Reference”,Martin C. Brown, McGraw-Hill/Osborne Media.\n2. “Learning Python”, Mark Lutz, O’Reilly Media, Inc., Fifth Edition, 2013."
+        }
+      ]
+    },
+    {
+      "page": 36,
+      "table_index": 0,
+      "rows": 23,
+      "columns": 16,
+      "sample": [
+        {
+          "0": "Subject Code",
+          "1": null,
+          "2": null,
+          "3": "Name of the Subject",
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": "L",
+          "12": "T",
+          "13": "P",
+          "14": "C",
+          "15": "QP"
+        },
+        {
+          "0": "",
+          "1": null,
+          "2": null,
+          "3": "Computer Organization and Architecture",
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": "3",
+          "12": "0",
+          "13": "0",
+          "14": "3",
+          "15": "A"
+        },
+        {
+          "0": "Course Educational Objectives",
+          "1": null,
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null
+        },
+        {
+          "0": "CEO1",
+          "1": "Identify the functional units in a digital computer system,",
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null
+        },
+        {
+          "0": "CEO2",
+          "1": "Distinguish between the various ISA styles and trace the execution sequence of an\ninstruction through the processor.",
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null
+        }
+      ]
+    },
+    {
+      "page": 37,
+      "table_index": 0,
+      "rows": 6,
+      "columns": 1,
+      "sample": [
+        {
+          "0": "Level Parallelism, Basic Concepts of Pipelining, Pipelined Implementation of Data path and\nControl, Hazards, Structural, Data and Control Hazards ,Exception handling. Parallelism and\nMultiprocessor Architecture, Flynn's Classification, UMA, NUMA, Distributed Memory\nArchitecture. Array and Vector Processor."
+        },
+        {
+          "0": "UNIT:3 (12 Hours)\nARITHMETIC FOR COMPUTERS: Addition and Subtraction, Fast Adders, Binary\nMultiplication, Fast Multiplication, Binary Division and its techniques, Floating Point Numbers,\nRepresentation, Arithmetic Operations."
+        },
+        {
+          "0": "UNIT:4 (12 Hours)\nMEMORY AND I/O :Need for a hierarchical memory system, Types and characteristics of\nmemories ,Memory location and address, Endianness of memory representation, Cache\nmemories, Improving cache performance, Virtual memory ,Memory management techniques,\ncache mapping and its techniques ,Associative memories. Page Replacement Algorithms.\nAccessing I/O devices – Programmed Input/output, Interrupts, Direct Memory Access ,Interface\ncircuits ,Need for Standard I/O Interfaces like PCI, SCSI, USB."
+        },
+        {
+          "0": "Teaching Methods: Chalk& Board/ PPT/Video Lectures"
+        },
+        {
+          "0": "Text Books:\n1. Carl Hamacher, ZvonkoVranesic, SafwatZaky and NaraigManjikian, “Computer\nOrganization and Embedded Systems”, Sixth Edition, Tata McGraw Hill, 2012.\n2. David A. Patterson and John L. Hennessy, “Computer Organization and Design: The\nHardware/Software Interface”, Fourth Edition, Morgan Kaufmann / Elsevier, 2009.\n3. Kai Hwang and F.A. Briggs, “Computer Architecture and Parallel Processing”, McGraw\nHill."
+        }
+      ]
+    },
+    {
+      "page": 38,
+      "table_index": 0,
+      "rows": 22,
+      "columns": 16,
+      "sample": [
+        {
+          "0": "Subject Code",
+          "1": null,
+          "2": null,
+          "3": "Name of the Subject",
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": "L",
+          "12": "T",
+          "13": "P",
+          "14": "C",
+          "15": "QP"
+        },
+        {
+          "0": "BCSPC3020",
+          "1": null,
+          "2": null,
+          "3": "DESIGN AND ANALYSIS OF ALGORITHMS",
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": "3",
+          "12": "1",
+          "13": "0",
+          "14": "4",
+          "15": "A"
+        },
+        {
+          "0": "Course Educational Objectives",
+          "1": null,
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null
+        },
+        {
+          "0": "CEO1",
+          "1": "Analyze the asymptotic performance of algorithms",
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null
+        },
+        {
+          "0": "CEO2",
+          "1": "Demonstrate familiarity with major algorithms",
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null
+        }
+      ]
+    },
+    {
+      "page": 39,
+      "table_index": 0,
+      "rows": 6,
+      "columns": 1,
+      "sample": [
+        {
+          "0": "Unit - II [15Hrs]\nDivide-and- conquer Approach: Binary search, Quick sort, Merge sort, Heap Sort, Priority\nQueue, Lower bounds for sorting. Worst case analysis of Quick sort.\nDynamic programming methodology: Elements of dynamic programming, Matrix-chain\nmultiplication, Longest common subsequence, Assembly-line scheduling.\nGreedy Algorithms: Elements of Greedy strategy, Activity selection Problem, Fractional\nknapsack problem, Huffman codes."
+        },
+        {
+          "0": "Unit – III [10Hrs]\nGraph Algorithms: Data structure for disjoint sets, Disjoint set operations, Linked list\nrepresentation, path compression, Disjoint set forests. Graph Algorithms and their characteristics,\nBreadth first search and depth-first search, Minimum Spanning Trees, Kruskal algorithm and\nPrim's algorithms, single- source shortest paths (Bellman-ford Algorithm and Dijkstra's\nalgorithms), All-pairs shortest paths (Floyd–Warshall Algorithm)."
+        },
+        {
+          "0": "Unit – IV [10 Hrs]\nBack tracking, Branch and Bound, Eight Queen problem, Sub Set Sum Problem. String matching\nalgorithms, naïve string matching algorithm, Rabin-Karp algorithm, Knuth–Morris–Pratt\nalgorithm, NP - Completeness (Polynomial time, Polynomial time verification, NP -\nCompleteness and reducibility, NP-Complete problems (without Proofs), Approximation\nalgorithms characteristics, Traveling Salesman Problem, vertex Cover Problem."
+        },
+        {
+          "0": "Teaching Methods: Chalk& Board/ PPT/Video Lectures"
+        },
+        {
+          "0": "Text Book:\n1. Introduction to Algorithms, T.H. Cormen, C.E. Leiserson, R.L. Rivest, C. Stein, 2nd\nEdition, PHI Learning Pvt. Ltd.\n2. Fundamentals of Algorithm, Horowitz &Sahani:, 2nd Edition, Universities Press."
+        }
+      ]
+    },
+    {
+      "page": 40,
+      "table_index": 0,
+      "rows": 21,
+      "columns": 16,
+      "sample": [
+        {
+          "0": "Subject Code",
+          "1": null,
+          "2": null,
+          "3": "Subject Code",
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": "L",
+          "12": "T",
+          "13": "P",
+          "14": "C",
+          "15": "QP"
+        },
+        {
+          "0": "",
+          "1": null,
+          "2": null,
+          "3": "Computer Networks",
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": "3",
+          "12": "0",
+          "13": "0",
+          "14": "3",
+          "15": "A"
+        },
+        {
+          "0": "Course Educational Objectives",
+          "1": null,
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null
+        },
+        {
+          "0": "CEO1",
+          "1": "To discuss the digital data communication techniques",
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null
+        },
+        {
+          "0": "CEO2",
+          "1": "Gain knowledge on basic concepts of data communication layers, protocols and\nperformance",
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null
+        }
+      ]
+    },
+    {
+      "page": 41,
+      "table_index": 0,
+      "rows": 7,
+      "columns": 1,
+      "sample": [
+        {
+          "0": "UNIT:1 (12 Hours)\nOverview of Data Communications and Networking.\nNetworks models – TCP/IP Protocol Suite , OSI model – Layers in OSI Digital Transmission:\nLine coding, Block coding, Sampling, Transmission mode. Analog Transmission: Modulation of\nDigital and Analog Data; Transmission Media: Guided Media, Unguided media (wireless)\nCircuit switching: Circuit switching (Data gram Networks and Virtual circuit networks)"
+        },
+        {
+          "0": "UNIT:2 (12 Hours)\nData Link Layer\nError Detection and correction: Types of Errors, Detection, Error Correction Data Link Control\nand Protocols: Flow and Error Control, Stop-and-wait ARQ. Go-Back-N ARQ, Selective Repeat\nARQ, HDLC. Point-to –Point Access: PPP Point –to- Point Protocol, PPP Stack, Multiple\nAccess Random Access, Controlled Access, Channelization."
+        },
+        {
+          "0": "UNIT:3 (10 Hours)\nLocal area Network: Ethernet. Traditional Ethernet, Fast Ethernet, Gigabit Ethernet. Token\nbus, token ring Wireless LANs: IEEE 802.11, Bluetooth virtual circuits: Frame Relay and ATM.\nNetwork Layer:\nHost to Host Delivery: Internetworking, addressing and Routing Network Layer Protocols: ARP,\nIPV4, ICMP, IPV6 ad ICMPV6"
+        },
+        {
+          "0": "UNIT:4 (10 Hours)\nTransport Layer: Process to Process Delivery: UDP; TCP congestion control and Quality of\nservice. Application Layer :Client Server Model, Socket Interface, Domain Name System\n(DNS): Electronic Mail (SMTP) and file transfer (FTP) HTTP and WWW."
+        },
+        {
+          "0": "Teaching Methods: Chalk& Board/ PPT/Video Lectures"
+        }
+      ]
+    },
+    {
+      "page": 42,
+      "table_index": 0,
+      "rows": 21,
+      "columns": 16,
+      "sample": [
+        {
+          "0": "Subject Code",
+          "1": null,
+          "2": null,
+          "3": "Name of the Subject",
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": "L",
+          "12": "T",
+          "13": "P",
+          "14": "C",
+          "15": "QP"
+        },
+        {
+          "0": "",
+          "1": null,
+          "2": null,
+          "3": "Formal Language & Automata Theory",
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": "3",
+          "12": "1",
+          "13": "0",
+          "14": "4",
+          "15": "A"
+        },
+        {
+          "0": "Course Educational Objectives",
+          "1": null,
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null
+        },
+        {
+          "0": "CEO1",
+          "1": "To familiarize students to construct regular expressions, regular grammars & to identify non -\nregular languages",
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null
+        },
+        {
+          "0": "CEO2",
+          "1": "Teach students to identify context - free languages, to convert the given grammar to various\nnormal forms, & to make use of membership algorithm.",
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null
+        }
+      ]
+    },
+    {
+      "page": 43,
+      "table_index": 0,
+      "rows": 7,
+      "columns": 1,
+      "sample": [
+        {
+          "0": "UNIT:1 (12 Hours)\nMathematical preliminaries: Alphabet, String, Languages, Grammars, Strings and operations\non strings.\nFinite Automata: Definition, Basic model, Types of Finite Automata, Design of DFA, Design\nof NFA, NFA vs. DFA, Eliminating ε-transitions from NFA, NFA to DFA conversion, NFA or\nDFA as a language acceptor, Minimization of Finite Automata. Equivalence of two Finite\nAutomata"
+        },
+        {
+          "0": "UNIT:2 (14 Hours)\nRegular Expressions: Regular Set and Regular Expressions. Operators in Regular expressions,\nBuilding Finite Automata from Regular expression, Arden’s theorem & Building Regular\nexpression from Finite Automata, Pumping Lemma for Regular languages, Closure properties of\nRegular languages.\nGrammar: Definition, Regular Grammar, Regular Grammar to Finite Automaton, Finite\nAutomaton to Regular Grammar, Designing Context Free Grammar, String Derivation, Parse\nTree Construction, Ambiguous Grammar, Chomsky and Greibach Normal Forms, CYK parsing\nalgorithm,Closure\nProperties of CFL, Pumping Lemma for CFL, Introducing Non-Context Free Grammar,\nChomsky Hierarchy."
+        },
+        {
+          "0": "UNIT:3 (12 Hours)\nPush Down Automata: Basic Model, Components, Moves of a PDA, ID of a PDA,\nDesign of Deterministic PDA and Non-deterministic PDA, PDA to CFG and CGA to PDA\nconversion.\nTuring Machines: Basic Model, Components, move of a TM, ID of TM, Design of a TM,\nVariants Of Turing Machine, Recursively Enumerable Languages, Undecidable\nproblems, Post correspondence problem as an Undecidable Problem. Linear Bounded Automata\nand Context Sensitive Languages"
+        },
+        {
+          "0": "UNIT:4 (10 Hours)\nPrimitive Recursive functions: μ- Recursive functions, Cantor and Godel numbering, ckermann's\nfunction, Excursiveness of Ackermann and Turing computable functions. Church Turing\nhypothesis, Recursive and Recursively Enumerable sets, NP Completeness: P and NP, NP\ncomplete and NP Hard problems."
+        },
+        {
+          "0": "Teaching Methods: Chalk& Board/ PPT/Video Lectures"
+        }
+      ]
+    }
+  ]
+}

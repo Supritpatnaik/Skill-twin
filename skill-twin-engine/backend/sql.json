@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "question": "Which SQL clause is used to filter records?",
+    "options": ["ORDER BY", "GROUP BY", "WHERE", "SELECT"],
+    "answer": "WHERE",
+    "tags": ["syntax"],
+    "difficulty": "easy"
+  },
+  {
+    "id": 2,
+    "question": "Which JOIN returns matching rows from both tables?",
+    "options": ["LEFT JOIN", "RIGHT JOIN", "INNER JOIN", "FULL JOIN"],
+    "answer": "INNER JOIN",
+    "tags": ["concept", "joins"],
+    "difficulty": "easy"
+  },
+  {
+    "id": 3,
+    "question": "Which SQL function counts rows?",
+    "options": ["SUM()", "AVG()", "COUNT()", "MAX()"],
+    "answer": "COUNT()",
+    "tags": ["syntax"],
+    "difficulty": "easy"
+  },
+  {
+    "id": 4,
+    "question": "Which key uniquely identifies a record?",
+    "options": ["Foreign key", "Primary key", "Composite key", "Index"],
+    "answer": "Primary key",
+    "tags": ["concept"],
+    "difficulty": "easy"
+  },
+  {
+    "id": 5,
+    "question": "Which JOIN returns all records from left table?",
+    "options": ["INNER JOIN", "LEFT JOIN", "RIGHT JOIN", "CROSS JOIN"],
+    "answer": "LEFT JOIN",
+    "tags": ["logic", "joins"],
+    "difficulty": "medium"
+  },
+  {
+    "id": 6,
+    "question": "Which command removes a table?",
+    "options": ["DELETE", "REMOVE", "DROP", "TRUNCATE"],
+    "answer": "DROP",
+    "tags": ["syntax"],
+    "difficulty": "easy"
+  },
+  {
+    "id": 7,
+    "question": "Which SQL constraint prevents NULL values?",
+    "options": ["UNIQUE", "PRIMARY", "NOT NULL", "CHECK"],
+    "answer": "NOT NULL",
+    "tags": ["concept"],
+    "difficulty": "easy"
+  },
+  {
+    "id": 8,
+    "question": "Which clause groups rows?",
+    "options": ["ORDER BY", "GROUP BY", "WHERE", "HAVING"],
+    "answer": "GROUP BY",
+    "tags": ["logic"],
+    "difficulty": "medium"
+  },
+  {
+    "id": 9,
+    "question": "Which command deletes all rows but keeps structure?",
+    "options": ["DROP", "DELETE", "TRUNCATE", "REMOVE"],
+    "answer": "TRUNCATE",
+    "tags": ["concept"],
+    "difficulty": "medium"
+  },
+  {
+    "id": 10,
+    "question": "Which SQL clause filters grouped data?",
+    "options": ["WHERE", "GROUP BY", "HAVING", "ORDER BY"],
+    "answer": "HAVING",
+    "tags": ["logic"],
+    "difficulty": "medium"
+  }
+]
