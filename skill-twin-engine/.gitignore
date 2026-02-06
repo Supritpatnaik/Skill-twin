@@ -1,0 +1,8 @@
+.env
+.venv
+__pycache__
+.env.example
+.env.local
+.env.dev
+.env.prod
+node_modules/
